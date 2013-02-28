@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x2f7a40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x2f7a40" />
+  <item nodeId="node-0x2f7a40">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+
+The Year 4003
+An Interactive Fiction by Logan Moss
+Release 1 / Serial number 130226 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Cell
+A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="44">NO</temporary>
+    <children>
+      <child nodeId="node-0x2f7c70" />
+      <child nodeId="node-0x2f7a90" />
+      <child nodeId="node-0x2f7920" />
+    </children>
+  </item>
+  <item nodeId="node-0x2f7920">
+    <command xml:space="preserve">x box springs</command>
+    <result xml:space="preserve">Just some ordinary box springs.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+  </item>
+  <item nodeId="node-0x2f7a90">
+    <command xml:space="preserve">x bed</command>
+    <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0x2f7ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2f7ae0">
+    <command xml:space="preserve">x box springs</command>
+    <result xml:space="preserve">Just some ordinary box springs.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+  </item>
+  <item nodeId="node-0x2f7c70">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my armor, still as dashing as ever.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0x2f7d30" />
+      <child nodeId="node-0x2f7cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2f7cc0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Cell
+A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+  </item>
+  <item nodeId="node-0x2f7d30">
+    <command xml:space="preserve">x</command>
+    <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x2f7e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x2f7e20">
+    <command xml:space="preserve">me</command>
+    <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x21f7b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x21f7b0">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="33">YES</temporary>
+  </item>
+</Skein>
