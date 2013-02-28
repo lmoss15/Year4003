@@ -1,41 +1,34 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x2f7a40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0xad68c40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x2f7a40" />
-  <item nodeId="node-0x2f7a40">
+  <activeNode nodeId="node-0xad14450" />
+  <item nodeId="node-0xad68c40">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
 
+It is the year 4003 you are in an Electronical war between two armies. You are a troop that has been trained in the arts of electronic guns for 10 years. You have been awarded with numerous medals and honors. This has been one of the biggest wars known to the electronical race. Unfortunately even with the skill and the strategies that you have, you were captured by the opposing army and are now being held in a cell. Like any other average prisoner you think to yourself, &quot;why would I stay here?&quot;
 
 The Year 4003
 An Interactive Fiction by Logan Moss
-Release 1 / Serial number 130226 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+Release 1 / Serial number 130228 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 
-Cell
-A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="44">NO</temporary>
-    <children>
-      <child nodeId="node-0x2f7c70" />
-      <child nodeId="node-0x2f7a90" />
-      <child nodeId="node-0x2f7920" />
-    </children>
-  </item>
-  <item nodeId="node-0x2f7920">
-    <command xml:space="preserve">x box springs</command>
-    <result xml:space="preserve">Just some ordinary box springs.
+Cell A
+A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="43">YES</temporary>
+    <temporary score="2">NO</temporary>
+    <children>
+      <child nodeId="node-0xad14450" />
+      <child nodeId="node-0xad68b50" />
+      <child nodeId="node-0xad68d50" />
+      <child nodeId="node-0xad68c90" />
+    </children>
   </item>
-  <item nodeId="node-0x2f7a90">
+  <item nodeId="node-0xad68c90">
     <command xml:space="preserve">x bed</command>
     <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
 
@@ -44,10 +37,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="43">YES</temporary>
     <children>
-      <child nodeId="node-0x2f7ae0" />
+      <child nodeId="node-0xad68ce0" />
     </children>
   </item>
-  <item nodeId="node-0x2f7ae0">
+  <item nodeId="node-0xad68ce0">
     <command xml:space="preserve">x box springs</command>
     <result xml:space="preserve">Just some ordinary box springs.
 
@@ -56,7 +49,7 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
   </item>
-  <item nodeId="node-0x2f7c70">
+  <item nodeId="node-0xad68d50">
     <command xml:space="preserve">x me</command>
     <result xml:space="preserve">Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my armor, still as dashing as ever.
 
@@ -65,11 +58,11 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="37">YES</temporary>
     <children>
-      <child nodeId="node-0x2f7d30" />
-      <child nodeId="node-0x2f7cc0" />
+      <child nodeId="node-0xad68e30" />
+      <child nodeId="node-0xad68dc0" />
     </children>
   </item>
-  <item nodeId="node-0x2f7cc0">
+  <item nodeId="node-0xad68dc0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Cell
 A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage.
@@ -79,7 +72,7 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="36">YES</temporary>
   </item>
-  <item nodeId="node-0x2f7d30">
+  <item nodeId="node-0xad68e30">
     <command xml:space="preserve">x</command>
     <result xml:space="preserve">What do you want to examine?
 
@@ -88,10 +81,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="34">YES</temporary>
     <children>
-      <child nodeId="node-0x2f7e20" />
+      <child nodeId="node-0xad68f20" />
     </children>
   </item>
-  <item nodeId="node-0x2f7e20">
+  <item nodeId="node-0xad68f20">
     <command xml:space="preserve">me</command>
     <result xml:space="preserve">As good-looking as ever.
 
@@ -100,10 +93,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="34">YES</temporary>
     <children>
-      <child nodeId="node-0x21f7b0" />
+      <child nodeId="node-0xad68f70" />
     </children>
   </item>
-  <item nodeId="node-0x21f7b0">
+  <item nodeId="node-0xad68f70">
     <command xml:space="preserve">x me</command>
     <result xml:space="preserve">As good-looking as ever.
 
@@ -111,5 +104,23 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
+  </item>
+  <item nodeId="node-0xad68b50">
+    <command xml:space="preserve">x box springs</command>
+    <result xml:space="preserve">Just some ordinary box springs.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+  </item>
+  <item nodeId="node-0xad14450">
+    <command xml:space="preserve">x door</command>
+    <result xml:space="preserve">A Strong high-tech looking door. Surprisingly, you can see that the lock is just an old lock, I wonder why this isn&apos;t as high tech as the rest of the building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1">YES</temporary>
   </item>
 </Skein>
