@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Skein rootNode="node-0xad68c40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0xad14450" />
+  <activeNode nodeId="node-0xadd1d20" />
   <item nodeId="node-0xad68c40">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
@@ -19,11 +19,13 @@ A prison cell that is concealed. The walls and the floor are made of some type o
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="2">NO</temporary>
+    <changed>NO</changed>
+    <temporary score="56">NO</temporary>
     <children>
       <child nodeId="node-0xad14450" />
+      <child nodeId="node-0x531aff0" />
       <child nodeId="node-0xad68b50" />
+      <child nodeId="node-0xad2f600" />
       <child nodeId="node-0xad68d50" />
       <child nodeId="node-0xad68c90" />
     </children>
@@ -35,10 +37,329 @@ A prison cell that is concealed. The walls and the floor are made of some type o
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="43">YES</temporary>
+    <temporary score="56">YES</temporary>
     <children>
       <child nodeId="node-0xad68ce0" />
+      <child nodeId="node-0xad686c0" />
+      <child nodeId="node-0x531a9c0" />
     </children>
+  </item>
+  <item nodeId="node-0x531a9c0">
+    <command xml:space="preserve">take wire</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10ae3660" />
+      <child nodeId="node-0xa0515b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa0515b0">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: 99
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0x10ad8da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x10ad8da0">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: -4
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+    <children>
+      <child nodeId="node-0xa021420" />
+    </children>
+  </item>
+  <item nodeId="node-0xa021420">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: -6
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+    <children>
+      <child nodeId="node-0xadd37c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xadd37c0">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+  </item>
+  <item nodeId="node-0x10ae3660">
+    <command xml:space="preserve">unlock cell a door</command>
+    <result xml:space="preserve">(with Metal wire)
+That doesn&apos;t seem to fit the lock.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x88dae10" />
+    </children>
+  </item>
+  <item nodeId="node-0x88dae10">
+    <command xml:space="preserve">unlock cell a door with metal wire</command>
+    <result xml:space="preserve">That doesn&apos;t seem to fit the lock.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xadf13c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xadf13c0">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: 97
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10b0eb20" />
+    </children>
+  </item>
+  <item nodeId="node-0x10b0eb20">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: 95
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x538c740" />
+    </children>
+  </item>
+  <item nodeId="node-0x538c740">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: 91
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xad20d10" />
+    </children>
+  </item>
+  <item nodeId="node-0xad20d10">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: 89
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xaddccd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xaddccd0">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xc2004a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xc2004a0">
+    <command xml:space="preserve">unlock door with key</command>
+    <result xml:space="preserve">You unlock Cell A door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x53f0d00" />
+    </children>
+  </item>
+  <item nodeId="node-0x53f0d00">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xc209330" />
+    </children>
+  </item>
+  <item nodeId="node-0xc209330">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10a6c810" />
+    </children>
+  </item>
+  <item nodeId="node-0x10a6c810">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xade4250" />
+    </children>
+  </item>
+  <item nodeId="node-0xade4250">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10ad21b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x10ad21b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10a15ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x10a15ab0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10a64df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x10a64df0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xadd6d50" />
+    </children>
+  </item>
+  <item nodeId="node-0xadd6d50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10a85020" />
+    </children>
+  </item>
+  <item nodeId="node-0x10a85020">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0x10a7f460" />
+    </children>
+  </item>
+  <item nodeId="node-0x10a7f460">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+    <children>
+      <child nodeId="node-0xadd1d20" />
+    </children>
+  </item>
+  <item nodeId="node-0xadd1d20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+  </item>
+  <item nodeId="node-0xad686c0">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">There are none at all available!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0xa0defd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa0defd0">
+    <command xml:space="preserve">take wire</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="33">YES</temporary>
+    <children>
+      <child nodeId="node-0xadf7fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xadf7fd0">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
+Your health is: -22
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
   </item>
   <item nodeId="node-0xad68ce0">
     <command xml:space="preserve">x box springs</command>
@@ -105,6 +426,76 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
   </item>
+  <item nodeId="node-0xad2f600">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">Why would you want to take everything here? Haha, that would be silly.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x5331250" />
+    </children>
+  </item>
+  <item nodeId="node-0x5331250">
+    <command xml:space="preserve">x bed frame</command>
+    <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0x5b7f20" />
+    </children>
+  </item>
+  <item nodeId="node-0x5b7f20">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">There are none at all available!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0xad5c7a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xad5c7a0">
+    <command xml:space="preserve">x bed</command>
+    <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0x5e9c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x5e9c20">
+    <command xml:space="preserve">take wire</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="8">YES</temporary>
+    <children>
+      <child nodeId="node-0x5dd650" />
+    </children>
+  </item>
+  <item nodeId="node-0x5dd650">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">(Metal wire)
+You already have that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+  </item>
   <item nodeId="node-0xad68b50">
     <command xml:space="preserve">x box springs</command>
     <result xml:space="preserve">Just some ordinary box springs.
@@ -113,6 +504,27 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="43">YES</temporary>
+  </item>
+  <item nodeId="node-0x531aff0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+    <children>
+      <child nodeId="node-0x53c4590" />
+    </children>
+  </item>
+  <item nodeId="node-0x53c4590">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="30">YES</temporary>
   </item>
   <item nodeId="node-0xad14450">
     <command xml:space="preserve">x door</command>
