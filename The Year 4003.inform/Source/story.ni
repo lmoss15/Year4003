@@ -39,9 +39,10 @@ Box springs is a thing. Box springs is undescribed. Box springs is in bed frame.
 Instead of taking box springs:
 	say "I don't think I would really need that right now."
 	
-Walls is scenery. Wall is in cell. Walls is undescribed. The description of wall is "Just a hard wall that is made of concrete."
+Wall is scenery. Wall is in cell A. The description of wall is "Just a hard wall that is made of concrete."
+Walls is scenery. Walls is in cell A. The description of walls is "Just a hard wall that is made of concrete."
 
-Floor is scenery. Floor is in cell. Floor is undescribed. The description of floor is "Just a hard floor that is made of concrete."
+Floor is scenery. Floor is in cell A. The description of floor is "Just a hard floor that is made of concrete."
 
 Understand "bend [something]" or "mold [something]" or "change [something]" as Molding. Molding is an action applying to one thing.
 
@@ -61,6 +62,6 @@ Chapter 2 Hallway
 
 Hallway is a room. Hallway is north of Cell A door. The description of hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the future they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there's a door that is labeled Storage. In the east, there's a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room."
 
-Storage is a room. Storage is to the west of Hallway. The description of storage is "Very dusty and dark. Someone really needs to clean the cobwebs and dust off the floor and the corners. In the back of the room you spot something that has been recently moved, what that could be?"
+Storage is a room. Storage is west of Hallway. The description of storage is "Very dusty and dark. Someone really needs to clean the cobwebs and dust off the floor and the corners. In the back of the room you spot something that has been recently moved, what that could be?"
 
-Cardboard Box is a supporter. Cardboard box is in Storage. The Description of Cardboard box is "A somewhat torn box that looks like it has been used before to carry some fresh produce.
+Cardboard Box is a supporter. Cardboard box is in Storage. The Description of Cardboard box is "A somewhat torn box that looks like it has been used before to carry some fresh produce."
