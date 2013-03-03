@@ -22,7 +22,7 @@ Rule for printing a parser error when the latest parser error is the nothing to 
 
 Chapter 1 Cell A
 
-Cell A is a room. Cell A is south of Cell A door. The description of cell a is "A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A."
+Cell A is a room. Cell A is south of Sturdy metal door. The description of cell a is "A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A."
 
 The description of the player is "Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my clothes, still as dashing and handsome as ever."
 
@@ -32,7 +32,7 @@ Metal wire is a thing. Metal wire is inside bed. It is undescribed. The descript
 
 Wire key is a thing. Wire key unlocks Cell A door. 
 
-Cell A door is a door. Cell A door is locked. Cell A door is undescribed. Cell A door is north of Cell A. Cell A door is south of hallway. Cell A door can be unlocked by wire key. The description of Cell A door is "A Strong high-tech looking door. Surprisingly, you can see that the lock is just an old lock, I wonder why this isn't as high tech as the rest of the building."
+Sturdy metal door is a door. Sturdy metal door is lockable and locked. Sturdy metal door is undescribed. Sturdy metal door is north of Cell A and south of hallway. Sturdy metal door can be unlocked by wire key. The description of Sturdy metal door is "A Strong high-tech looking door. Surprisingly, you can see that the lock is just an old lock, I wonder why this isn't as high tech as the rest of the building."
 
 Box springs is a thing. Box springs is undescribed. Box springs is in bed frame. The description of box springs is "Just some ordinary box springs."
 
@@ -45,7 +45,7 @@ Walls is scenery. Walls is in cell A. The description of walls is "Just a hard w
 Floor is scenery. Floor is in cell A. The description of floor is "Just a hard floor that is made of concrete."
 
 Understand "bend [something]" or "mold [something]" or "change [something]" as Molding. Molding is an action applying to one thing.
-
+	
 Check Molding:
 	if noun is Metal Wire:
 		If a random chance of 1 in 3 succeeds:
@@ -60,8 +60,21 @@ Check Molding:
 		
 Chapter 2 Hallway
 
-Hallway is a room. Hallway is north of Cell A door. The description of hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the future they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there's a door that is labeled Storage. In the east, there's a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room."
+Hallway is a room. Hallway is north of Sturdy metal door. The description of hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there's a door that is labeled Storage. In the east, there's a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room."
 
-Storage is a room. Storage is west of Hallway. The description of storage is "Very dusty and dark. Someone really needs to clean the cobwebs and dust off the floor and the corners. In the back of the room you spot something that has been recently moved, what that could be?"
+Wrappers is a thing. Wrappers is undescribed. Wrappers is in hallway. The description of Wrappers is "Gross. It's just some sticky candy wrappers and some other dirty things."
 
-Cardboard Box is a supporter. Cardboard box is in Storage. The Description of Cardboard box is "A somewhat torn box that looks like it has been used before to carry some fresh produce."
+Instead of taking Wrappers:
+	say "I don't think I really need that right now."
+Instead of taking Trash:
+	say "I don't think I really need that right now."
+	
+Trash is a thing. Trash is undescribed. Trash is in hallway. The description of trash is "Gross. It's just some sticky candy wrappers and some other dirty things."
+
+Chapter 3 Extension rooms to Hallway
+
+Cell B is a room. Cell B is east of Hallway. The description of Cell B is "A cell room that looks like it hasn't been used in over 400 years. In the corner there is a broken down bed frame. "
+
+Storage is a room. Storage is west of Hallway. The description of storage is "Very dusty and dark. Someone really needs to clean the cobwebs and dust off the floor and the corners. In the back of the room you spot something that has been recently moved, it looks like a cardboard box."
+
+Cardboard Box is a supporter. Cardboard box is undescribed. Cardboard box is in Storage. The Description of Cardboard box is "A somewhat torn box that looks like it has been used before to carry some fresh produce."
