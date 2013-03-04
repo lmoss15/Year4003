@@ -11,21 +11,21 @@
     </dict>
     <key>1</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>23</integer>
+        <key>Line</key><integer>25</integer>
         <key>Title</key><string>Chapter 1 Cell A</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>65</integer>
+        <key>Line</key><integer>70</integer>
         <key>Title</key><string>Chapter 2 Hallway</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>78</integer>
+        <key>Line</key><integer>83</integer>
         <key>Title</key><string>Chapter 3 Extension rooms to Hallway</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
@@ -885,6 +885,13 @@
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>126</key><dict>
+        <key>Filename</key><string>/Users/lmoss15/Library/Inform/Extensions/andrew owen/secret doors.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Secret Doors by Andrew Owen begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>127</key><dict>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>scene understood is a scene which varies</string>
         <key>Level</key><integer>0</integer>
