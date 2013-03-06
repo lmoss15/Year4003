@@ -18,14 +18,14 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>70</integer>
+        <key>Line</key><integer>80</integer>
         <key>Title</key><string>Chapter 2 Hallway</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>83</integer>
+        <key>Line</key><integer>93</integer>
         <key>Title</key><string>Chapter 3 Extension rooms to Hallway</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
