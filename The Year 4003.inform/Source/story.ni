@@ -55,7 +55,7 @@ Instead of going north in Cell A:
 Check Molding:
 	if noun is Metal Wire:
 		if player has Metal Wire:
-			If a random chance of 1 in 3 succeeds:
+			If a random chance of 1 in 2 succeeds:
 				say "Using your strength and rough hands, you bend the wire into a key!";
 				now Metal Wire is off-stage;
 				now player has Wire Key;
@@ -84,11 +84,17 @@ Chapter 3 Extension rooms to Hallway
 
 Cell B is a room. Cell B is east of Hallway. The description of Cell B is "A cell room that looks like it hasn't been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn't installed recently, but it looks high-tech. Kind of some sort of voice application."
 
-Secret Passage is a room. It is north of Cell B. 
-
 Storage is a room. Storage is west of Hallway. The description of storage is "Very dusty and dark. Someone really needs to clean the cobwebs and dust off the floor and the corners. "
 
-Plaque is scenery. It is undescribed. Plaque is in Cell B. The Description of plaque is "A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it's some type of riddle. It says,[paragraph break]1[line break]11[line break]21[line break]1211[line break]111221[line break]312211[line break]13112221"
+Wall passage is a secret door. It is north of Cell B. It is undescribed.
+
+[Fixxxxxxxxxx thisssssss pleaseeeeeeeeeeeee. Note to self. VV^^]
+
+instead of :
+	now the wall passage is revealed;
+	say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage."
+
+Plaque is scenery. It is undescribed. Plaque is in Cell B. The Description of plaque is "A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it's some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,[paragraph break]1[line break]11[line break]21[line break]1211[line break]111221[line break]312211[line break]13112221[line break]------[paragraph break]Hmm.. I bet that the voice activation device goes along with the last line of the plaque."
 
 
 [1113213211]
