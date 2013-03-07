@@ -15,16 +15,47 @@ The max health of a person is usually 100.
 
 The max health of the player is usually 100.
 
-The present health of a person is usually 1.
+The present health of a person is usually 5.
+[Source, Brandon Lau.]
+
+An every turn rule: 
+	If the present health of the player is less than 1, end the game in death.
 
 Rule for deciding whether all includes something: it does not.
 
 Rule for printing a parser error when the latest parser error is the nothing to do error:
 	say "Why would you want to take everything here? Haha, that would be silly." instead.
 
+instead of attacking guard jeffery:
+	If a random chance of 2 in 3 succeeds:
+		Let G be a random number from 5 to 5;
+		say "You damage Guard Jeffery for [G] damage!";
+		decrease the present health of Guard Jeffery by G;
+		say "(Health: [the present health of Guard jeffery])[line break]";
+		move Guard Jeffery to dead;
+		say "You use some quick and deadly move in which you end up silencing the guard forever. He will not be bothering you anymore.";
+	otherwise:
+		say "The decently trained guard dodged your attack.".
+		
+every turn:
+	If the location of Guard Jeffery is not the location of the player:
+		do nothing;
+	otherwise:
+		If a random chance of 1 in 4 succeeds:
+			say "You have dodged the Guards attack.";
+		otherwise:
+			Let Z be a random number from 10 to 20;
+			say "Guard Jeffery lunges forward.";
+			decrease the present health of the player by Z;
+			say "You have been damaged for [Z] HP.";
+			say "Your present health is [the present health of the player]".
+			
+				
 Chapter 1 Cell A
 
 Cell A is a room. Cell A is south of Sturdy metal door. The description of cell a is "A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A."
+
+Dead is a room.
 
 The description of the player is "Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my dirty clothes, still as dashing and handsome as ever."
 
@@ -70,7 +101,7 @@ Check Molding:
 				now player has Wire Key;
 			otherwise:
 				say "You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn't look too bad though, maybe you should try again.";
-				Let F be a random number from 1 to 5;
+				Let F be a random number from 3 to 7;
 				decrease the present health of player by F;
 				say "Your health is: [The present health of player]";
 		otherwise:
@@ -98,7 +129,7 @@ Broken bed frame is scenery. It is in Cell B. The description is "The metal look
 
 Storage is a room. Storage is west of Hallway. The description of storage is "Very dusty and dark. You look around but you can't seem to find a light switch. You look high and low and all you can see is a shelf on your left. Someone really needs to clean the cobwebs and dust off the floor and the corners."
 
-Cardboard box is a supporter. It is in supply closet. The description is "Just a regular cardboard box. Inside the box you see some clothes that are labeled 'Janitor', maybe this could help you blend in."
+Cardboard box is a container. It is in supply closet. It is undescribed. The description is "Just a regular cardboard box. Inside the box you see some clothes that are labeled 'Janitor', maybe this could help you blend in."
 
 [implement clothes]
 
@@ -127,6 +158,29 @@ Instead of going south in Supply closet:
 	
 Supply Closet is a room. It is north of Wall passage. The description is "A dirty, cramped, and dark supply closet. There's some high-tech looking cleaning supplies in the corner. There is also some clothes with the label 'Janitor'. That would definitely come in handy."
 
+Janitor suit is a thing. It is wearable. It is in Cardboard box. The description is "A suit that looks fairly dirty, it has some dirt stains and some cleaning stains, but other than that, it's completely wearable!"
+
+Guard suit is a thing. It is wearable. It is in lockers. It is undescribed. The description is "A suit that makes me look fairly tough, there are some unknown stains, but i'm not too worried about that. I can definitely use this to blend into the outside world."
+
+Lockers are containers. Lockers are in guard room. It is undescribed. The description is "Just some regular guard lockers. One of them has been left open, inside there is a guard suit."
+
+Instead of taking guard suit:
+	say "Taken.";
+	Change description of lockers to "Just some regular guard lockers. One of them has been left open.";
+	move guard suit to player.
+
+Instead of going north in Guard room:
+	if player is wearing guard suit:
+		continue the action;
+	Otherwise:
+		Say "If I go outside dressed like this, they'll know that I am trying to escape!".
+
+Instead of going west in supply closet:
+	If player is wearing janitor suit:
+		continue the action;
+	Otherwise:
+		say "I should probably put on the suit, so I can blend in."
+		
 Instead of answering Voice Activation that "1113213211":
 	now the wall passage is revealed;
 	say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north."
@@ -147,11 +201,11 @@ Guard Jeffery is a man. He is in guard room. The description of guard jeffery is
 Instead of going north in hallway:
 	if hallway door is unlocked:
 		now player is in guard room;
+		say "The guard that has Jeffery on his shirt stands up and says 'Hey! What are you doing out of your cell! You can tell Jeffery is a little on the slower side, so I don't think he will be a problem if you move first.";
 	otherwise:
 		continue the action.
-		
-After entering guard room for the first time:
-	say "The guard that has Jeffery on his shirt stands up and says 'Hey! What are you doing out of your cell! Don't move or i'll shoot!' You can tell Jeffery is a little on the slower side, so I don't think him shooting you will be a problem if you move first."
+
+Center table is scenery. It is in guard room. The description is "Just a regular round table, in the middle you can see some cards and some poker chips. The guards have definitely been gambling, like regular guards."
 
 Chapter 4 Lobby
 
@@ -166,3 +220,7 @@ Nametag is scenery. It is in Cell X. The description of nametag is "unicorns"
 instead of examining nametag:
 	say "You notice a nametag that has been on you the entire time, it says:[line break]Mr. Jacob Williams[line break]Mental Patient[line Break]Member since: January 12, 2003";
 	end the game in victory.
+
+Instead of going north in lobby:
+	Say "∂���������Ê���������������� ��F�������!��v˘�ÄB@��,�U��!�†B@��,�V��O�ÄB@��,�W��Ü�»B@��,�[line break]Y�X¥���B@��W����·»B@�,�Z���ÄB@��,?�ÄB@��,�\��m�ÄR@��,����õ�B@������^»���B@���_��˛���B@�+�ÄB@�������V�ÄB@�������Å���r@���[line break]����¶���B@�������B@����������B@������,�B@��";
+	Continue the action.
