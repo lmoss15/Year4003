@@ -110,7 +110,7 @@ Check Molding:
 		
 Chapter 2 Hallway
 
-Hallway is a room. Hallway is north of Sturdy Metal Door. The printed name is "Hallway". The description of Hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there's a door that is labeled Storage. In the east, there's a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room."
+Hallway is a room. Hallway is north of Sturdy Metal Door. The printed name is "Hallway". The description of Hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there's a room that is labeled Storage. In the east, there's an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room."
 
 Wrappers are a thing. Wrappers is undescribed. Wrappers is in hallway. The description of Wrappers is "Gross. It's just some sticky candy wrappers and some other dirty things."
 
@@ -128,6 +128,22 @@ Cell B is a room. Cell B is east of Hallway. The description of Cell B is "A cel
 Broken bed frame is scenery. It is in Cell B. The description is "The metal looks bented and rusted. Not to mention, some of the edges look a little sharp. I would get no use out of this what so ever."
 
 Storage is a room. Storage is west of Hallway. The description of storage is "Very dusty and dark. You look around but you can't seem to find a light switch. You look high and low and all you can see is a shelf on your left. Someone really needs to clean the cobwebs and dust off the floor and the corners."
+
+Cobwebs are scenery. Cobwebs are in Storage. The description is "Just some ordinary cobwebs that have gathered in the corner."
+
+Dust is scenery. Dust is in storage. The description is "Just some dust, you lean closer to get a better look and sneeze. Good job."
+
+Instead of taking dust:
+	say "Now why would I need that?"
+	
+Instead of taking cobwebs:
+	say "I don't really think I should take that with me."
+	
+Instead of eating cobwebs:
+	say "Is that really logical?"
+	
+Instead of eating dust:
+	say "That is probably the worst thing I could do right now."
 
 Cardboard box is a container. It is in supply closet. It is undescribed. The description is "Just a regular cardboard box. Inside the box you see some clothes that are labeled 'Janitor', maybe this could help you blend in."
 
@@ -169,6 +185,10 @@ Instead of taking guard suit:
 	Change description of lockers to "Just some regular guard lockers. One of them has been left open.";
 	move guard suit to player.
 
+Understand "couch" as couches.
+Understand "clothes" as janitor suit.
+Understand "clothes" as Guard suit.
+
 Instead of going north in Guard room:
 	if player is wearing guard suit:
 		continue the action;
@@ -183,7 +203,8 @@ Instead of going west in supply closet:
 		
 Instead of answering Voice Activation that "1113213211":
 	now the wall passage is revealed;
-	say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north."
+	change description of Cell b to "A cell room that looks like it hasn't been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn't installed recently, but it looks high-tech. Kind of some sort of voice application. To the north there is a hidden passage way.";
+	say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.".
 
 Plaque is scenery. Plaque is in Cell B. The Description of plaque is "A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it's some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,[paragraph break]1[line break]11[line break]21[line break]1211[line break]111221[line break]312211[line break]13112221[line break]------[paragraph break]Hmm.. I bet that the voice activation device goes along with the last line of the plaque."
 
@@ -220,7 +241,25 @@ Nametag is scenery. It is in Cell X. The description of nametag is "unicorns"
 instead of examining nametag:
 	say "You notice a nametag that has been on you the entire time, it says:[line break]Mr. Jacob Williams[line break]Mental Patient[line Break]Member since: January 12, 2003";
 	end the game in victory.
+	
+Potted plants are scenery. Potted plants are in lobby. The description is "Just some regular potted plants. There is some soil spilled over the side, but that seems like someone probably just bumped into it. Nothing out of the ordinary."
 
 Instead of going north in lobby:
 	Say "∂���������Ê���������������� ��F�������!��v˘�ÄB@��,�U��!�†B@��,�V��O�ÄB@��,�W��Ü�»B@��,�[line break]Y�X¥���B@��W����·»B@�,�Z���ÄB@��,?�ÄB@��,�\��m�ÄR@��,����õ�B@������^»���B@���_��˛���B@�+�ÄB@�������V�ÄB@�������Å���r@���[line break]����¶���B@�������B@����������B@������,�B@��";
+	move janitor suit to dead;
+	move guard suit to dead;
+	move wire key to dead;
+	move brass key to dead;
+	change description of player to "You notice a nametag that has been on you the entire time, it says:[line break]Mr. Jacob Williams[line break]Mental Patient[line Break]Member since: January 12, 2003";
 	Continue the action.
+	
+
+[Fix this] [Make it so after examining me it works to end the game too.]
+Instead of examining player:
+	if player has  north in Lobby:
+		continue the action;
+		end the game in victory;
+	Otherwise:
+		continue the action.
+	
+
