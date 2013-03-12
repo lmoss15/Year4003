@@ -172,7 +172,7 @@ Instead of going north in Cell B:
 Instead of going south in Supply closet:
 	now player is in Cell B.
 	
-Supply Closet is a room. It is north of Wall passage. The printed name is "Supply Closet". The description is "A dirty, cramped, and dark supply closet. There's some high-tech looking cleaning supplies in the corner. There is also some clothes with the label 'Janitor'. That would definitely come in handy."
+Supply Closet is a room. It is north of Wall passage. The printed name is "Supply Closet". The description is "A dirty, cramped, and dark supply closet. There's some high-tech looking cleaning supplies in the corner. There is also some clothes with the label 'Janitor'. That would definitely come in handy. There is a door to the west, probably leading out to the lobby."
 
 Janitor suit is a thing. It is wearable. It is in Cardboard box. The description is "A suit that looks fairly dirty, it has some dirt stains and some cleaning stains, but other than that, it's completely wearable!"
 
@@ -230,7 +230,7 @@ Center table is scenery. It is in guard room. The description is "Just a regular
 
 Chapter 4 Lobby
 
-Lobby is a room. Lobby is north of Guard room. Lobby is west of Closet. The description of lobby is "You are in the lobby of the building. It seems to be bustling with many guards and employee's. You see a lot of people wearing nurse and doctor outfits, probably because of the war going on outside. There are many potted plants and couches. As you look around, you notice many people that look crazy, odd. You've made it! To the north there is the exit to the building, you'll soon be out of here and into freedom."
+Lobby is a room. Lobby is north of Guard room. Lobby is west of Closet. The description of lobby is "You are in the lobby of the building. It seems to be bustling with many guards and employee's. You see a lot of people wearing nurse and doctor outfits, probably because of the war going on outside. There are many potted plants and couches. As you look around, you notice many people that look crazy, odd. To the north there is the exit to the building."
 
 Couches are scenery. Couches are in lobby. The description is "Just some comfortable, bouncy, and boxy couches. It looks like very few people have actually sit in these couches."
 
@@ -244,6 +244,18 @@ instead of examining nametag:
 	
 Potted plants are scenery. Potted plants are in lobby. The description is "Just some regular potted plants. There is some soil spilled over the side, but that seems like someone probably just bumped into it. Nothing out of the ordinary."
 
+Instead of going south in lobby:
+	If player is wearing Janitor suit:
+		say "I hear some guards down in that hall, I don't think I would need to bother them.";
+	otherwise:
+		Continue the action.
+		
+Instead of going east in lobby:
+	If player is wearing guard suit:
+		Say "Instead of walking into a supply closet, I think I should probably escape through the north exit door.";
+	otherwise:
+		continue the action.
+		
 Instead of going north in lobby:
 	Say "∂���������Ê���������������� ��F�������!��v˘�ÄB@��,�U��!�†B@��,�V��O�ÄB@��,�W��Ü�»B@��,�[line break]Y�X¥���B@��W����·»B@�,�Z���ÄB@��,?�ÄB@��,�\��m�ÄR@��,����õ�B@������^»���B@���_��˛���B@�+�ÄB@�������V�ÄB@�������Å���r@���[line break]����¶���B@�������B@����������B@������,�B@��";
 	move janitor suit to dead;
