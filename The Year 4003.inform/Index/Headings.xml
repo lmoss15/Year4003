@@ -11,28 +11,28 @@
     </dict>
     <key>1</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>54</integer>
+        <key>Line</key><integer>63</integer>
         <key>Title</key><string>Chapter 1 Cell A</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>111</integer>
+        <key>Line</key><integer>120</integer>
         <key>Title</key><string>Chapter 2 Hallway</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>124</integer>
+        <key>Line</key><integer>133</integer>
         <key>Title</key><string>Chapter 3 Extension rooms to Hallway</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/lmoss15/Repositories/Year4003/The Year 4003.inform/Source/story.ni</string>
-        <key>Line</key><integer>231</integer>
+        <key>Line</key><integer>241</integer>
         <key>Title</key><string>Chapter 4 Lobby</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>

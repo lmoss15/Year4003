@@ -3,7 +3,16 @@
 Include Secret Doors by Andrew Owen.
 
 When play begins:
-	say "It is the year 4003 you are in an Electronical war between two armies. You are a troop that has been trained in the arts of electronic guns for 10 years. You have been awarded with numerous medals and honors. This has been one of the biggest wars known to the electronical race. Unfortunately even with the skill and the strategies that you have, you were captured by the opposing army and are now being held in a cell. Like any other average prisoner you think to yourself, 'why would I stay here?'"
+	now left hand status line is "Exits: [exit list]";
+	now right hand status line is "[location]".
+To say exit list:
+	let place be location;
+	repeat with way running through directions:
+		let place be the room way from the location;
+		if place is a room, say " [way]".
+
+When play begins:
+	say "It is the year 4003, you are in an Electronical war between two armies. You are a troop that has been trained in the arts of electronic guns for 10 years. You have been awarded with numerous medals and honors. This has been one of the biggest wars known to the electronical race. Unfortunately even with the skill and the strategies that you have, you were captured by the opposing army and are now being held in a cell. Like any other average prisoner you think to yourself, 'why would I stay here, should I escape?'"
 	The present health of the player is 100.
 	
 Use no scoring.
@@ -59,7 +68,7 @@ Dead is a room.
 
 The description of the player is "Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my dirty clothes, still as dashing and handsome as ever."
 
-Bed frame is a container. Bed frame is in cell. It is undescribed. The description of bed frame is "A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things."
+Bed frame is a container. Bed frame is in cell. It is fixed in place. It is undescribed. The description of bed frame is "A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things."
 
 Metal wire is a thing. It is undescribed. The description of metal wire is "Some long, hard, sturdy, and thin strips of wire. This could become very useful. With effort, I think I would be able to bend or mold this to my will."
 
@@ -140,7 +149,7 @@ Instead of taking cobwebs:
 	say "I don't really think I should take that with me."
 	
 Instead of eating cobwebs:
-	say "Is that really logical?"
+	say "Is that really logical? Kapri?"
 	
 Instead of eating dust:
 	say "That is probably the worst thing I could do right now."
@@ -224,6 +233,7 @@ Instead of going north in hallway:
 		now player is in guard room;
 		say "The guard that has Jeffery on his shirt stands up and says 'Hey! What are you doing out of your cell! You can tell Jeffery is a little on the slower side, so I don't think he will be a problem if you move first.";
 	otherwise:
+		say "You can't go north until the door is unlocked.";
 		continue the action.
 
 Center table is scenery. It is in guard room. The description is "Just a regular round table, in the middle you can see some cards and some poker chips. The guards have definitely been gambling, like regular guards."
@@ -257,11 +267,13 @@ Instead of going east in lobby:
 		continue the action.
 		
 Instead of going north in lobby:
-	Say "∂���������Ê���������������� ��F�������!��v˘�ÄB@��,�U��!�†B@��,�V��O�ÄB@��,�W��Ü�»B@��,�[line break]Y�X¥���B@��W����·»B@�,�Z���ÄB@��,?�ÄB@��,�\��m�ÄR@��,����õ�B@������^»���B@���_��˛���B@�+�ÄB@�������V�ÄB@�������Å���r@���[line break]����¶���B@�������B@����������B@������,�B@��";
+	Say "∂���������Ê���������������� ��F�������!��v˘�ÄB@��,�U��!�†B@��,�V��O�ÄB@��,�W��Ü�»B@��,�[line break]Y�X¥���B@��W����·»B@�,�Z���ÄB@��,?�ÄB@��,�\��m�ÄR@��,����õ�B@������^»���B@���_��˛���B@�+�ÄB@�������V�ÄB@�������Å���r@���[line break]����¶���B@�������B@����������B@������,�B@��[paragraph break]";
 	move janitor suit to dead;
 	move guard suit to dead;
 	move wire key to dead;
 	move brass key to dead;
 	now player is in cell X;
+	move bed frame to dead;
+	move box springs to dead;
 	change description of player to "You notice a nametag that has been on you the entire time, perhaps I should examine that closer…".
 
