@@ -16,7 +16,7 @@ The max health of a person is usually 100.
 The max health of the player is usually 100.
 
 The present health of a person is usually 5.
-[Source, Brandon Lau.]
+[Source, Brandon Lau. With edits.]
 
 An every turn rule: 
 	If the present health of the player is less than 1, end the game in death.
@@ -172,7 +172,7 @@ Instead of going north in Cell B:
 Instead of going south in Supply closet:
 	now player is in Cell B.
 	
-Supply Closet is a room. It is north of Wall passage. The printed name is "Supply Closet" The description is "A dirty, cramped, and dark supply closet. There's some high-tech looking cleaning supplies in the corner. There is also some clothes with the label 'Janitor'. That would definitely come in handy."
+Supply Closet is a room. It is north of Wall passage. The printed name is "Supply Closet". The description is "A dirty, cramped, and dark supply closet. There's some high-tech looking cleaning supplies in the corner. There is also some clothes with the label 'Janitor'. That would definitely come in handy."
 
 Janitor suit is a thing. It is wearable. It is in Cardboard box. The description is "A suit that looks fairly dirty, it has some dirt stains and some cleaning stains, but other than that, it's completely wearable!"
 
@@ -236,7 +236,7 @@ Couches are scenery. Couches are in lobby. The description is "Just some comfort
 
 Cell X is a room. The printed name is "Cell A". The description of Cell X is "A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A. Why does this seem so vaguely familar?[paragraph break]Just then a female pushing a cart walks in.[line break]'Good afternoon Mr. Williams, are you ready for your daily medicine?'[line break]'Who are you? Who am I?'[line break]'You're silly! I'm your caretaker! You obviously know who you are! Just look at your nametag on your shirt!'"
 
-Nametag is scenery. It is in Cell X. The description of nametag is "unicorns"
+Nametag is scenery. It is in Cell X. The description of nametag is "unicorns are tasty."
 
 instead of examining nametag:
 	say "You notice a nametag that has been on you the entire time, it says:[line break]Mr. Jacob Williams[line break]Mental Patient[line Break]Member since: January 12, 2003";
@@ -251,17 +251,5 @@ Instead of going north in lobby:
 	move wire key to dead;
 	move brass key to dead;
 	now player is in cell X;
-	change description of player to "You notice a nametag that has been on you the entire time, it says:[line break]Mr. Jacob Williams[line break]Mental Patient[line Break]Member since: January 12, 2003".
-	
-[Still have an error]
-[Doesn't work when I x me]
-[x Player doesn't work either]
-[Use another word instead of examining player]
-
-Instead of examining player:
-	If player is in cell X:
-		continue the action;
-		end the game in victory;
-	otherwise:
-		continue the action.
+	change description of player to "You notice a nametag that has been on you the entire time, perhaps I should examine that closer…".
 
