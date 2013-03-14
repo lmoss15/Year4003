@@ -12,7 +12,7 @@ To say exit list:
 		if place is a room, say " [way]".
 
 When play begins:
-	say "It is the year 4003, you are in an Electronical war between two armies. You are a troop that has been trained in the arts of electronic guns for 10 years. You have been awarded with numerous medals and honors. This has been one of the biggest wars known to the electronical race. Unfortunately even with the skill and the strategies that you have, you were captured by the opposing army and are now being held in a cell. Like any other average prisoner you think to yourself, 'why would I stay here, should I escape?'"
+	say "It is the year 4003, you are in an Electronical war between two armies. You are a trooper that has been trained in the arts of electronic guns for 10 years. You have been awarded with numerous medals and honors. This has been one of the biggest wars known to the electronical race. Unfortunately even with the skill and the strategies that you have, you were captured by the opposing army and are now being held in a cell. Like any other average prisoner you think to yourself, 'why would I stay here, should I escape?'"
 	The present health of the player is 100.
 	
 Use no scoring.
@@ -68,9 +68,9 @@ Dead is a room.
 
 The description of the player is "Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my dirty clothes, still as dashing and handsome as ever."
 
-Bed frame is a container. Bed frame is in cell. It is fixed in place. It is undescribed. The description of bed frame is "A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things."
+Bed frame is a container. Bed frame is in cell. It is fixed in place. It is undescribed. The description of bed frame is "A messy non-made bed. The bed frame is made of some Metal Wire and Box Springs. With my tactical skills maybe I could use some of these things."
 
-Metal wire is a thing. It is undescribed. The description of metal wire is "Some long, hard, sturdy, and thin strips of wire. This could become very useful. With effort, I think I would be able to bend or mold this to my will."
+Metal wire is a thing. It is undescribed. The description of metal wire is "Some long, hard, sturdy, and thin strips of wire. This could become very useful. With effort, I think I would be able to Bend, Mold, or Change this to my will."
 
 After examining bed frame for the first time:
 	move metal wire to bed frame.
@@ -82,7 +82,7 @@ Sturdy Metal Door is a door. Sturdy metal door is lockable and locked. Sturdy me
 Box springs are a thing. Box springs is undescribed. Box springs is in bed frame. The description of box springs is "Just some ordinary box springs."
 
 Instead of taking box springs:
-	say "I don't think I would really need that right now."
+	say "I could try and make this into a key, but I think this is too thick to bend. Maybe I should try and use something more thin."
 	
 Wall is scenery. Wall is in cell A. The description of wall is "Just a hard wall that is made of concrete."
 Walls is scenery. Walls is in cell A. The description of walls is "Just a hard wall that is made of concrete."
@@ -119,7 +119,7 @@ Check Molding:
 		
 Chapter 2 Hallway
 
-Hallway is a room. Hallway is north of Sturdy Metal Door. The printed name is "Hallway". The description of Hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there's a room that is labeled Storage. In the east, there's an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room."
+Hallway is a room. Hallway is north of Sturdy Metal Door. The printed name is "Hallway". The description of Hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into seperate rooms. In the west, there's a room that is labeled Storage. In the east, there's an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room."
 
 Wrappers are a thing. Wrappers is undescribed. Wrappers is in hallway. The description of Wrappers is "Gross. It's just some sticky candy wrappers and some other dirty things."
 
@@ -215,12 +215,12 @@ Instead of answering Voice Activation that "1113213211":
 	change description of Cell b to "A cell room that looks like it hasn't been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn't installed recently, but it looks high-tech. Kind of some sort of voice application. To the north there is a hidden passage way.";
 	say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.".
 
-Plaque is scenery. Plaque is in Cell B. The Description of plaque is "A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it's some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,[paragraph break]1[line break]11[line break]21[line break]1211[line break]111221[line break]312211[line break]13112221[line break]------[paragraph break]Hmm.. I bet that the voice activation device goes along with the last line of the plaque."
+Plaque is scenery. Plaque is in Cell B. The Description of plaque is "A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it's some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,[paragraph break]1[line break]11[line break]21[line break]1211[line break]111221[line break]312211[line break]13112221[line break]------[paragraph break]Hmm.. I bet that the voice activation device goes along with the last line of the plaque. Maybe I should Talk or Examine the voice activation."
 
 Voice Activation is a man. He is in Cell B. The description of voice activation is "Just a small box that seems to have a purpose in this room. It startles you and says 'Say 'answer' and then put in the code, this will unl…' The sound must be bugged, the last sentence got cut short. (In short, put 'answer' before you enter the code. Ex: 'Answer #')"
 [1113213211]
 
-Hallway door is a door. It is north of Hallway. It is undescribed. It is lockable and locked. The description is "A hallway door that seems to have a lot of chatter going on behind it. I assume it's the guard room. If worse comes to worse and I have no where else to go, I might have to go into the guard room. The lock is just a simple key lock. Why do all of these doors just have old key locks?"
+Hallway door is a door. It is north of Hallway. It is undescribed. It is lockable and locked. The description is "A hallway door that seems to have a lot of chatter going on behind it. I assume it's the guard room. If worse comes to worse and I have no where else to go, I might have to go into the guard room. The lock is just a simple brass key lock. Why do all of these doors just have old key locks?"
 
 Brass key is a thing. Brass key unlocks hallway door. The description of brass key is "A brass key that probably unlocks just a regular door."
 
@@ -242,7 +242,7 @@ Chapter 4 Lobby
 
 Lobby is a room. Lobby is north of Guard room. Lobby is west of Closet. The description of lobby is "You are in the lobby of the building. It seems to be bustling with many guards and employee's. You see a lot of people wearing nurse and doctor outfits, probably because of the war going on outside. There are many potted plants and couches. As you look around, you notice many people that look crazy, odd. To the north there is the exit to the building."
 
-Couches are scenery. Couches are in lobby. The description is "Just some comfortable, bouncy, and boxy couches. It looks like very few people have actually sit in these couches."
+Couches are enterable scenery supporters. Couches are in lobby. The description is "Just some comfortable, bouncy, and boxy couches. It looks like very few people have actually sit in these couches."
 
 Cell X is a room. The printed name is "Cell A". The description of Cell X is "A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A. Why does this seem so vaguely familar?[paragraph break]Just then a female pushing a cart walks in.[line break]'Good afternoon Mr. Williams, are you ready for your daily medicine?'[line break]'Who are you? Who am I?'[line break]'You're silly! I'm your caretaker! You obviously know who you are! Just look at your nametag on your shirt!'"
 
@@ -277,3 +277,9 @@ Instead of going north in lobby:
 	move box springs to dead;
 	change description of player to "You notice a nametag that has been on you the entire time, perhaps I should examine that closer…".
 
+Understand "xyzzy" or "say xyzzy" or "cast xyzzy" as casting xyzzy.
+
+Casting xyzzy is an action applying to nothing.
+
+Check casting xyzzy:
+	say "Xyzzy, what are you trying to accomplish by this? You must be crazy! What are you a mental?"
