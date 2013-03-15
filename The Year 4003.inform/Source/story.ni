@@ -210,14 +210,9 @@ Instead of going west in supply closet:
 	Otherwise:
 		say "I should probably put on the suit, so I can blend in."
 		
-Instead of answering Voice Activation that "1113213211":
-	now the wall passage is revealed;
-	change description of Cell b to "A cell room that looks like it hasn't been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn't installed recently, but it looks high-tech. Kind of some sort of voice application. To the north there is a hidden passage way.";
-	say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.".
-
 Plaque is scenery. Plaque is in Cell B. The Description of plaque is "A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it's some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,[paragraph break]1[line break]11[line break]21[line break]1211[line break]111221[line break]312211[line break]13112221[line break]------[paragraph break]Hmm.. I bet that the voice activation device goes along with the last line of the plaque. Maybe I should Talk or Examine the voice activation."
 
-Voice Activation is a man. He is in Cell B. The description of voice activation is "Just a small box that seems to have a purpose in this room. It startles you and says 'Say 'answer' and then put in the code, this will unl…' The sound must be bugged, the last sentence got cut short. (In short, put 'answer' before you enter the code. Ex: 'Answer #')"
+Voice Activation is a man. He is in Cell B. The description of voice activation is "Just a small box that seems to have a purpose in this room. It startles you and says put in the code, this will unl…' The sound must be bugged, the last sentence got cut short."
 [1113213211]
 
 Hallway door is a door. It is north of Hallway. It is undescribed. It is lockable and locked. The description is "A hallway door that seems to have a lot of chatter going on behind it. I assume it's the guard room. If worse comes to worse and I have no where else to go, I might have to go into the guard room. The lock is just a simple brass key lock. Why do all of these doors just have old key locks?"
@@ -276,6 +271,28 @@ Instead of going north in lobby:
 	move bed frame to dead;
 	move box springs to dead;
 	change description of player to "You notice a nametag that has been on you the entire time, perhaps I should examine that closer…".
+
+Understand "1113213211" as loving unicorns.
+Loving unicorns is an action applying to nothing.
+Check loving unicorns:
+	If player is in cell B:
+		now the wall passage is revealed;
+		change description of Cell b to "A cell room that looks like it hasn't been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn't installed recently, but it looks high-tech. Kind of some sort of voice application. To the north there is a hidden passage way.";
+		say "The wall begins to push outwards, you first think you're going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.";
+	otherwise:
+		say "What?"
+
+
+Understand "hint" as casting hint.
+
+Casting hint is an action applying to nothing.
+
+Check casting hint:
+	If player is in Cell B:
+		say "Say it out loud.";
+	Otherwise:
+		say "What are you doing? Asking yourself for hints? Stop talking to yourself.".
+		
 
 Understand "xyzzy" or "say xyzzy" or "cast xyzzy" as casting xyzzy.
 
