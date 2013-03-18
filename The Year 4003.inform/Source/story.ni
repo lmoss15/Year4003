@@ -283,6 +283,10 @@ Check loving unicorns:
 		say "What?"
 
 
+Guards are scenery. They are in lobby. The description of guards are "Some busy guards that are too fast to look in detail."
+
+Employees are scenery. They are in lobby. The description of employees are "Some busy employees bustling around, they seem to be mobing too fast and are too busy to notice in detail."
+
 Understand "hint" as casting hint.
 
 Casting hint is an action applying to nothing.
