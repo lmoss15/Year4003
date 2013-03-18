@@ -290,6 +290,10 @@ Casting hint is an action applying to nothing.
 Check casting hint:
 	If player is in Cell B:
 		say "The line above directly corresponds with the line below.";
+	If player is in cell A:
+		say "That's odd, I just suddenly thought of bending or molding the wire, I must be crazy!";
+	If player is in Hallway:
+		say "That's odd, I just suddenly thought of a brass key in the storage room. Then I thought of a second option, going east into cell B. I must be crazy! ";
 	Otherwise:
 		say "What are you doing? Asking yourself for hints? Stop talking to yourself.".
 		
