@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x54ab20" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x2d4de0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0xc646250" />
-  <item nodeId="node-0x54ab20">
+  <activeNode nodeId="node-0x2d4de0" />
+  <item nodeId="node-0x2d4de0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -22,21 +22,21 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="181">NO</temporary>
     <children>
-      <child nodeId="node-0x518ab20" />
-      <child nodeId="node-0x54abe0" />
-      <child nodeId="node-0x5036e10" />
-      <child nodeId="node-0x5675430" />
-      <child nodeId="node-0x518b6f0" />
-      <child nodeId="node-0x54aca0" />
-      <child nodeId="node-0x518ca30" />
-      <child nodeId="node-0x518b760" />
-      <child nodeId="node-0x518a790" />
-      <child nodeId="node-0x51e51e0" />
-      <child nodeId="node-0x51ab3e0" />
-      <child nodeId="node-0x54ab90" />
+      <child nodeId="node-0x51dc330" />
+      <child nodeId="node-0x51dc2c0" />
+      <child nodeId="node-0x51dbfb0" />
+      <child nodeId="node-0x51dbf40" />
+      <child nodeId="node-0x51dbed0" />
+      <child nodeId="node-0x2d4ea0" />
+      <child nodeId="node-0x51daf80" />
+      <child nodeId="node-0x51d87b0" />
+      <child nodeId="node-0x51d7710" />
+      <child nodeId="node-0x51d67f0" />
+      <child nodeId="node-0x51d6b30" />
+      <child nodeId="node-0x2d4e50" />
     </children>
   </item>
-  <item nodeId="node-0x54ab90">
+  <item nodeId="node-0x2d4e50">
     <command xml:space="preserve">take box springs</command>
     <result xml:space="preserve">I don&apos;t think I would really need that right now.
 
@@ -45,311 +45,7 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="205">YES</temporary>
   </item>
-  <item nodeId="node-0x51ab3e0">
-    <command xml:space="preserve">1113213211</command>
-    <result xml:space="preserve">What?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x901b960" />
-    </children>
-  </item>
-  <item nodeId="node-0x901b960">
-    <command xml:space="preserve">111321</command>
-    <result xml:space="preserve">What?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x5664ce0" />
-    </children>
-  </item>
-  <item nodeId="node-0x5664ce0">
-    <command xml:space="preserve">hi</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x565ce70" />
-    </children>
-  </item>
-  <item nodeId="node-0x565ce70">
-    <command xml:space="preserve">hin</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x236920" />
-    </children>
-  </item>
-  <item nodeId="node-0x236920">
-    <command xml:space="preserve">11132</command>
-    <result xml:space="preserve">What?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x51ad9f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x51ad9f0">
-    <command xml:space="preserve">1114213211</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x90dc7a0" />
-    </children>
-  </item>
-  <item nodeId="node-0x90dc7a0">
-    <command xml:space="preserve">xyzzz</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x9020200" />
-    </children>
-  </item>
-  <item nodeId="node-0x9020200">
-    <command xml:space="preserve">xyyzz</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x56bb3f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x56bb3f0">
-    <command xml:space="preserve">111321321</command>
-    <result xml:space="preserve">What?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x90f3b10" />
-    </children>
-  </item>
-  <item nodeId="node-0x90f3b10">
-    <command xml:space="preserve">3211</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x56ae2e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x56ae2e0">
-    <command xml:space="preserve">321</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x90e1950" />
-    </children>
-  </item>
-  <item nodeId="node-0x90e1950">
-    <command xml:space="preserve">32111</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x50ab60" />
-    </children>
-  </item>
-  <item nodeId="node-0x50ab60">
-    <command xml:space="preserve">111</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x516cec0" />
-    </children>
-  </item>
-  <item nodeId="node-0x516cec0">
-    <command xml:space="preserve">1113</command>
-    <result xml:space="preserve">What?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x90d4870" />
-    </children>
-  </item>
-  <item nodeId="node-0x90d4870">
-    <command xml:space="preserve">xyzz</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x561c030" />
-    </children>
-  </item>
-  <item nodeId="node-0x561c030">
-    <command xml:space="preserve">x bed</command>
-    <result xml:space="preserve">A messy non-made bed. The bed frame is made of some Metal Wire and Box Springs. With my tactical skills maybe I could use some of these things.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0xc635de0" />
-    </children>
-  </item>
-  <item nodeId="node-0xc635de0">
-    <command xml:space="preserve">take wire</command>
-    <result xml:space="preserve">Taken.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x568ab10" />
-    </children>
-  </item>
-  <item nodeId="node-0x568ab10">
-    <command xml:space="preserve">bend wire</command>
-    <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x5142460" />
-    </children>
-  </item>
-  <item nodeId="node-0x5142460">
-    <command xml:space="preserve">open door with key</command>
-    <result xml:space="preserve">You unlock Sturdy metal door.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x56bbce0" />
-    </children>
-  </item>
-  <item nodeId="node-0x56bbce0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">Hallway
-A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x56e51e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x56e51e0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Cell B
-A cell room that looks like it hasn&apos;t been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn&apos;t installed recently, but it looks high-tech. Kind of some sort of voice application.
-
-You can see Voice Activation here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x5695a60" />
-    </children>
-  </item>
-  <item nodeId="node-0x5695a60">
-    <command xml:space="preserve">1113213211</command>
-    <result xml:space="preserve">The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x5685480" />
-    </children>
-  </item>
-  <item nodeId="node-0x5685480">
-    <command xml:space="preserve">undo</command>
-    <result xml:space="preserve">Cell B
-[Previous turn undone.]
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x902b220" />
-    </children>
-  </item>
-  <item nodeId="node-0x902b220">
-    <command xml:space="preserve">111321</command>
-    <result xml:space="preserve">The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="172">YES</temporary>
-    <children>
-      <child nodeId="node-0x56bf360" />
-    </children>
-  </item>
-  <item nodeId="node-0x56bf360">
-    <command xml:space="preserve">undo</command>
-    <result xml:space="preserve">Cell B
-[Previous turn undone.]
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="171">YES</temporary>
-  </item>
-  <item nodeId="node-0x51e51e0">
+  <item nodeId="node-0x51d6b30">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -358,10 +54,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="125">YES</temporary>
     <children>
-      <child nodeId="node-0x515d250" />
+      <child nodeId="node-0x51d6ba0" />
     </children>
   </item>
-  <item nodeId="node-0x515d250">
+  <item nodeId="node-0x51d6ba0">
     <command xml:space="preserve">open sturdy metal door</command>
     <result xml:space="preserve">It seems to be locked.
 
@@ -370,10 +66,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="125">YES</temporary>
     <children>
-      <child nodeId="node-0x28b470" />
+      <child nodeId="node-0x51d6c10" />
     </children>
   </item>
-  <item nodeId="node-0x28b470">
+  <item nodeId="node-0x51d6c10">
     <command xml:space="preserve">open sturdy metal door with wire key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -382,10 +78,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="125">YES</temporary>
     <children>
-      <child nodeId="node-0x90dd390" />
+      <child nodeId="node-0x51d6c80" />
     </children>
   </item>
-  <item nodeId="node-0x90dd390">
+  <item nodeId="node-0x51d6c80">
     <command xml:space="preserve">x bed</command>
     <result xml:space="preserve">A messy non-made bed. The bed frame is made of some Metal Wire and Box Springs. With my tactical skills maybe I could use some of these things.
 
@@ -394,10 +90,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="125">YES</temporary>
     <children>
-      <child nodeId="node-0x508ae0" />
+      <child nodeId="node-0x51d6cf0" />
     </children>
   </item>
-  <item nodeId="node-0x508ae0">
+  <item nodeId="node-0x51d6cf0">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -406,10 +102,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="125">YES</temporary>
     <children>
-      <child nodeId="node-0x29dac0" />
+      <child nodeId="node-0x51d6d60" />
     </children>
   </item>
-  <item nodeId="node-0x29dac0">
+  <item nodeId="node-0x51d6d60">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -418,10 +114,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="125">YES</temporary>
     <children>
-      <child nodeId="node-0x56d2510" />
+      <child nodeId="node-0x51d6780" />
     </children>
   </item>
-  <item nodeId="node-0x56d2510">
+  <item nodeId="node-0x51d6780">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -430,7 +126,7 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="124">YES</temporary>
   </item>
-  <item nodeId="node-0x518a790">
+  <item nodeId="node-0x51d67f0">
     <command xml:space="preserve">take metal wire</command>
     <result xml:space="preserve">I only understood you as far as wanting to take Sturdy metal door.
 
@@ -439,10 +135,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518a800" />
+      <child nodeId="node-0x51d6860" />
     </children>
   </item>
-  <item nodeId="node-0x518a800">
+  <item nodeId="node-0x51d6860">
     <command xml:space="preserve">take sturdy metal door</command>
     <result xml:space="preserve">That&apos;s fixed in place.
 
@@ -451,10 +147,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518aff0" />
+      <child nodeId="node-0x51d7010" />
     </children>
   </item>
-  <item nodeId="node-0x518aff0">
+  <item nodeId="node-0x51d7010">
     <command xml:space="preserve">x bed</command>
     <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
 
@@ -463,10 +159,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b060" />
+      <child nodeId="node-0x51d7080" />
     </children>
   </item>
-  <item nodeId="node-0x518b060">
+  <item nodeId="node-0x51d7080">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -475,10 +171,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b0d0" />
+      <child nodeId="node-0x51d70f0" />
     </children>
   </item>
-  <item nodeId="node-0x518b0d0">
+  <item nodeId="node-0x51d70f0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -487,20 +183,20 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b140" />
+      <child nodeId="node-0x51d7160" />
     </children>
   </item>
-  <item nodeId="node-0x518b140">
+  <item nodeId="node-0x51d7160">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b1b0" />
+      <child nodeId="node-0x51d71d0" />
     </children>
   </item>
-  <item nodeId="node-0x518b1b0">
+  <item nodeId="node-0x51d71d0">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -509,10 +205,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b220" />
+      <child nodeId="node-0x51d7240" />
     </children>
   </item>
-  <item nodeId="node-0x518b220">
+  <item nodeId="node-0x51d7240">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a door that is labeled Storage. In the east, there&apos;s a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room.
@@ -522,10 +218,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b290" />
+      <child nodeId="node-0x51d72b0" />
     </children>
   </item>
-  <item nodeId="node-0x518b290">
+  <item nodeId="node-0x51d72b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Storage
@@ -536,10 +232,10 @@ Very dusty and dark. Someone really needs to clean the cobwebs and dust off the 
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b300" />
+      <child nodeId="node-0x51d7320" />
     </children>
   </item>
-  <item nodeId="node-0x518b300">
+  <item nodeId="node-0x51d7320">
     <command xml:space="preserve">x shelf</command>
     <result xml:space="preserve">Just a regular shelf. Nothing seems unordinary about it, except for the few chips and cracks in the old wood.
 
@@ -550,10 +246,10 @@ You pat your hand on top of the shelf and notice a bump that seems to have made 
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b370" />
+      <child nodeId="node-0x51d7390" />
     </children>
   </item>
-  <item nodeId="node-0x518b370">
+  <item nodeId="node-0x51d7390">
     <command xml:space="preserve">x shelf</command>
     <result xml:space="preserve">Just a regular shelf. Nothing seems unordinary about it, except for the few chips and cracks in the old wood. There is also a brass key on top.
 
@@ -564,10 +260,10 @@ On Shelf is Brass key.
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b3e0" />
+      <child nodeId="node-0x51d7400" />
     </children>
   </item>
-  <item nodeId="node-0x518b3e0">
+  <item nodeId="node-0x51d7400">
     <command xml:space="preserve">take key</command>
     <result xml:space="preserve">(Brass key)
 Taken.
@@ -577,10 +273,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b450" />
+      <child nodeId="node-0x51d7470" />
     </children>
   </item>
-  <item nodeId="node-0x518b450">
+  <item nodeId="node-0x51d7470">
     <command xml:space="preserve">x shelf</command>
     <result xml:space="preserve">Just a regular shelf. Nothing seems unordinary about it, except for the few chips and cracks in the old wood. There was a brass key here.
 
@@ -589,10 +285,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b4c0" />
+      <child nodeId="node-0x51d74e0" />
     </children>
   </item>
-  <item nodeId="node-0x518b4c0">
+  <item nodeId="node-0x51d74e0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Hallway
@@ -603,10 +299,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b530" />
+      <child nodeId="node-0x51d7550" />
     </children>
   </item>
-  <item nodeId="node-0x518b530">
+  <item nodeId="node-0x51d7550">
     <command xml:space="preserve">open door with brass key</command>
     <result xml:space="preserve">Which do you mean, Hallway door or Sturdy metal door?
 
@@ -615,10 +311,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b5a0" />
+      <child nodeId="node-0x51d75c0" />
     </children>
   </item>
-  <item nodeId="node-0x518b5a0">
+  <item nodeId="node-0x51d75c0">
     <command xml:space="preserve">open hallway door with brass key</command>
     <result xml:space="preserve">You unlock Hallway door.
 
@@ -627,10 +323,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b610" />
+      <child nodeId="node-0x51d7630" />
     </children>
   </item>
-  <item nodeId="node-0x518b610">
+  <item nodeId="node-0x51d7630">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Guard room
 A larger room that has a center table and some lockers. This is probably where most of the guards hang out.
@@ -642,10 +338,10 @@ You can see Guard Jeffery here.
     <changed>YES</changed>
     <temporary score="266">YES</temporary>
     <children>
-      <child nodeId="node-0x518b680" />
+      <child nodeId="node-0x51d76a0" />
     </children>
   </item>
-  <item nodeId="node-0x518b680">
+  <item nodeId="node-0x51d76a0">
     <command xml:space="preserve">attack jeffery</command>
     <result xml:space="preserve">Violence isn&apos;t the answer to this one.
 
@@ -654,7 +350,7 @@ You can see Guard Jeffery here.
     <changed>YES</changed>
     <temporary score="265">YES</temporary>
   </item>
-  <item nodeId="node-0x518b760">
+  <item nodeId="node-0x51d7710">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">You cannot bend something that you do not have!
 
@@ -663,10 +359,10 @@ You can see Guard Jeffery here.
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518b7d0" />
+      <child nodeId="node-0x51d6dd0" />
     </children>
   </item>
-  <item nodeId="node-0x518b7d0">
+  <item nodeId="node-0x51d6dd0">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -675,10 +371,10 @@ You can see Guard Jeffery here.
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518b840" />
+      <child nodeId="node-0x51d6e40" />
     </children>
   </item>
-  <item nodeId="node-0x518b840">
+  <item nodeId="node-0x51d6e40">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
 Your health is: 98
@@ -687,11 +383,11 @@ Your health is: 98
     <changed>YES</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bed0" />
-      <child nodeId="node-0x518b8b0" />
+      <child nodeId="node-0x51d7c50" />
+      <child nodeId="node-0x51d6eb0" />
     </children>
   </item>
-  <item nodeId="node-0x518b8b0">
+  <item nodeId="node-0x51d6eb0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -700,30 +396,30 @@ Your health is: 98
     <changed>YES</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518b920" />
+      <child nodeId="node-0x51d6f20" />
     </children>
   </item>
-  <item nodeId="node-0x518b920">
+  <item nodeId="node-0x51d6f20">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518b990" />
+      <child nodeId="node-0x51d6f90" />
     </children>
   </item>
-  <item nodeId="node-0x518b990">
+  <item nodeId="node-0x51d6f90">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518ba00" />
+      <child nodeId="node-0x51d7780" />
     </children>
   </item>
-  <item nodeId="node-0x518ba00">
+  <item nodeId="node-0x51d7780">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -732,10 +428,10 @@ Your health is: 98
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518ba70" />
+      <child nodeId="node-0x51d77f0" />
     </children>
   </item>
-  <item nodeId="node-0x518ba70">
+  <item nodeId="node-0x51d77f0">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -744,10 +440,10 @@ Your health is: 98
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bae0" />
+      <child nodeId="node-0x51d7860" />
     </children>
   </item>
-  <item nodeId="node-0x518bae0">
+  <item nodeId="node-0x51d7860">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a door that is labeled Storage. In the east, there&apos;s a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room.
@@ -757,10 +453,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bb50" />
+      <child nodeId="node-0x51d78d0" />
     </children>
   </item>
-  <item nodeId="node-0x518bb50">
+  <item nodeId="node-0x51d78d0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -773,10 +469,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bbc0" />
+      <child nodeId="node-0x51d7940" />
     </children>
   </item>
-  <item nodeId="node-0x518bbc0">
+  <item nodeId="node-0x51d7940">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -785,10 +481,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bc30" />
+      <child nodeId="node-0x51d79b0" />
     </children>
   </item>
-  <item nodeId="node-0x518bc30">
+  <item nodeId="node-0x51d79b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -797,10 +493,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bca0" />
+      <child nodeId="node-0x51d7a20" />
     </children>
   </item>
-  <item nodeId="node-0x518bca0">
+  <item nodeId="node-0x51d7a20">
     <command xml:space="preserve">x plaque</command>
     <result xml:space="preserve">A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it&apos;s some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,
 
@@ -820,10 +516,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bd10" />
+      <child nodeId="node-0x51d7a90" />
     </children>
   </item>
-  <item nodeId="node-0x518bd10">
+  <item nodeId="node-0x51d7a90">
     <command xml:space="preserve">answer 1113213211</command>
     <result xml:space="preserve">(to Voice Activation)
 The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage.
@@ -833,10 +529,10 @@ The wall begins to push outwards, you first think you&apos;re going to get crush
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bd80" />
+      <child nodeId="node-0x51d7b00" />
     </children>
   </item>
-  <item nodeId="node-0x518bd80">
+  <item nodeId="node-0x51d7b00">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Supply closet
 A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cleaning supplies in the corner. There is also some clothes with the label &quot;Janitor&quot;. That would definitely come in handy.
@@ -846,10 +542,10 @@ A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cl
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518bdf0" />
+      <child nodeId="node-0x51d7b70" />
     </children>
   </item>
-  <item nodeId="node-0x518bdf0">
+  <item nodeId="node-0x51d7b70">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Cell B
 A cell room that looks like it hasn&apos;t been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn&apos;t installed recently, but it looks high-tech. Kind of some sort of voice application.
@@ -861,10 +557,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="162">YES</temporary>
     <children>
-      <child nodeId="node-0x518be60" />
+      <child nodeId="node-0x51d7be0" />
     </children>
   </item>
-  <item nodeId="node-0x518be60">
+  <item nodeId="node-0x51d7be0">
     <command xml:space="preserve">x voice activation</command>
     <result xml:space="preserve">Just a small box that seems to have a purpose in this room. It startles you and says &quot;Say &quot;answer&quot; and then put in the code, this will unl…ays ndꐨ thi&quot; The sound must be bugged, the last sentence got cut short.
 
@@ -873,7 +569,7 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="161">YES</temporary>
   </item>
-  <item nodeId="node-0x518bed0">
+  <item nodeId="node-0x51d7c50">
     <command xml:space="preserve">open sturdy with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -882,10 +578,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518bf40" />
+      <child nodeId="node-0x51d7cc0" />
     </children>
   </item>
-  <item nodeId="node-0x518bf40">
+  <item nodeId="node-0x51d7cc0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -894,10 +590,10 @@ You can see Voice Activation here.
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518bfb0" />
+      <child nodeId="node-0x51d7d30" />
     </children>
   </item>
-  <item nodeId="node-0x518bfb0">
+  <item nodeId="node-0x51d7d30">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a door that is labeled Storage. In the east, there&apos;s a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room.
@@ -907,10 +603,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c020" />
+      <child nodeId="node-0x51d7da0" />
     </children>
   </item>
-  <item nodeId="node-0x518c020">
+  <item nodeId="node-0x51d7da0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -921,10 +617,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c090" />
+      <child nodeId="node-0x51d7e10" />
     </children>
   </item>
-  <item nodeId="node-0x518c090">
+  <item nodeId="node-0x51d7e10">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -933,10 +629,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c100" />
+      <child nodeId="node-0x51d7e80" />
     </children>
   </item>
-  <item nodeId="node-0x518c100">
+  <item nodeId="node-0x51d7e80">
     <command xml:space="preserve">go through door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -945,10 +641,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c170" />
+      <child nodeId="node-0x51d7ef0" />
     </children>
   </item>
-  <item nodeId="node-0x518c170">
+  <item nodeId="node-0x51d7ef0">
     <command xml:space="preserve">enter door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -957,10 +653,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c1e0" />
+      <child nodeId="node-0x51d7f60" />
     </children>
   </item>
-  <item nodeId="node-0x518c1e0">
+  <item nodeId="node-0x51d7f60">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -969,10 +665,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c250" />
+      <child nodeId="node-0x51d7fd0" />
     </children>
   </item>
-  <item nodeId="node-0x518c250">
+  <item nodeId="node-0x51d7fd0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -981,10 +677,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c2c0" />
+      <child nodeId="node-0x51d8040" />
     </children>
   </item>
-  <item nodeId="node-0x518c2c0">
+  <item nodeId="node-0x51d8040">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   Wire key
@@ -994,110 +690,110 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c330" />
+      <child nodeId="node-0x51d80b0" />
     </children>
   </item>
-  <item nodeId="node-0x518c330">
+  <item nodeId="node-0x51d80b0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c3a0" />
+      <child nodeId="node-0x51d8120" />
     </children>
   </item>
-  <item nodeId="node-0x518c3a0">
+  <item nodeId="node-0x51d8120">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c410" />
+      <child nodeId="node-0x51d8190" />
     </children>
   </item>
-  <item nodeId="node-0x518c410">
+  <item nodeId="node-0x51d8190">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c480" />
+      <child nodeId="node-0x51d8200" />
     </children>
   </item>
-  <item nodeId="node-0x518c480">
+  <item nodeId="node-0x51d8200">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c4f0" />
+      <child nodeId="node-0x51d8270" />
     </children>
   </item>
-  <item nodeId="node-0x518c4f0">
+  <item nodeId="node-0x51d8270">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c560" />
+      <child nodeId="node-0x51d82e0" />
     </children>
   </item>
-  <item nodeId="node-0x518c560">
+  <item nodeId="node-0x51d82e0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c5d0" />
+      <child nodeId="node-0x51d8350" />
     </children>
   </item>
-  <item nodeId="node-0x518c5d0">
+  <item nodeId="node-0x51d8350">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c640" />
+      <child nodeId="node-0x51d83c0" />
     </children>
   </item>
-  <item nodeId="node-0x518c640">
+  <item nodeId="node-0x51d83c0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c6b0" />
+      <child nodeId="node-0x51d8430" />
     </children>
   </item>
-  <item nodeId="node-0x518c6b0">
+  <item nodeId="node-0x51d8430">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c720" />
+      <child nodeId="node-0x51d84a0" />
     </children>
   </item>
-  <item nodeId="node-0x518c720">
+  <item nodeId="node-0x51d84a0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c790" />
+      <child nodeId="node-0x51d8510" />
     </children>
   </item>
-  <item nodeId="node-0x518c790">
+  <item nodeId="node-0x51d8510">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1106,10 +802,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c800" />
+      <child nodeId="node-0x51d8580" />
     </children>
   </item>
-  <item nodeId="node-0x518c800">
+  <item nodeId="node-0x51d8580">
     <command xml:space="preserve">enter</command>
     <result xml:space="preserve">You must supply a noun.
 
@@ -1118,10 +814,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c870" />
+      <child nodeId="node-0x51d85f0" />
     </children>
   </item>
-  <item nodeId="node-0x518c870">
+  <item nodeId="node-0x51d85f0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1130,10 +826,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c8e0" />
+      <child nodeId="node-0x51d8660" />
     </children>
   </item>
-  <item nodeId="node-0x518c8e0">
+  <item nodeId="node-0x51d8660">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1142,10 +838,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c950" />
+      <child nodeId="node-0x51d86d0" />
     </children>
   </item>
-  <item nodeId="node-0x518c950">
+  <item nodeId="node-0x51d86d0">
     <command xml:space="preserve">enter hallway</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1154,10 +850,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="158">YES</temporary>
     <children>
-      <child nodeId="node-0x518c9c0" />
+      <child nodeId="node-0x51d8740" />
     </children>
   </item>
-  <item nodeId="node-0x518c9c0">
+  <item nodeId="node-0x51d8740">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1166,7 +862,7 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="157">YES</temporary>
   </item>
-  <item nodeId="node-0x518ca30">
+  <item nodeId="node-0x51d87b0">
     <command xml:space="preserve">eat bed</command>
     <result xml:space="preserve">(first taking Bed frame)
 That&apos;s fixed in place.
@@ -1176,10 +872,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518caa0" />
+      <child nodeId="node-0x51d8820" />
     </children>
   </item>
-  <item nodeId="node-0x518caa0">
+  <item nodeId="node-0x51d8820">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying nothing.
 
@@ -1188,11 +884,11 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e630" />
-      <child nodeId="node-0x518cb10" />
+      <child nodeId="node-0x51da3b0" />
+      <child nodeId="node-0x51d8890" />
     </children>
   </item>
-  <item nodeId="node-0x518cb10">
+  <item nodeId="node-0x51d8890">
     <command xml:space="preserve">sleep</command>
     <result xml:space="preserve">You aren&apos;t feeling especially drowsy.
 
@@ -1201,10 +897,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cb80" />
+      <child nodeId="node-0x51d8900" />
     </children>
   </item>
-  <item nodeId="node-0x518cb80">
+  <item nodeId="node-0x51d8900">
     <command xml:space="preserve">jump</command>
     <result xml:space="preserve">You jump on the spot, fruitlessly.
 
@@ -1213,10 +909,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cbf0" />
+      <child nodeId="node-0x51d8970" />
     </children>
   </item>
-  <item nodeId="node-0x518cbf0">
+  <item nodeId="node-0x51d8970">
     <command xml:space="preserve">sing</command>
     <result xml:space="preserve">Your singing is abominable.
 
@@ -1225,10 +921,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cc60" />
+      <child nodeId="node-0x51d89e0" />
     </children>
   </item>
-  <item nodeId="node-0x518cc60">
+  <item nodeId="node-0x51d89e0">
     <command xml:space="preserve">x bed</command>
     <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
 
@@ -1237,10 +933,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518ccd0" />
+      <child nodeId="node-0x51d8a50" />
     </children>
   </item>
-  <item nodeId="node-0x518ccd0">
+  <item nodeId="node-0x51d8a50">
     <command xml:space="preserve">take springs</command>
     <result xml:space="preserve">I don&apos;t think I would really need that right now.
 
@@ -1249,10 +945,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cd40" />
+      <child nodeId="node-0x51d8ac0" />
     </children>
   </item>
-  <item nodeId="node-0x518cd40">
+  <item nodeId="node-0x51d8ac0">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -1261,10 +957,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cdb0" />
+      <child nodeId="node-0x51d8b30" />
     </children>
   </item>
-  <item nodeId="node-0x518cdb0">
+  <item nodeId="node-0x51d8b30">
     <command xml:space="preserve">take box springs</command>
     <result xml:space="preserve">I don&apos;t think I would really need that right now.
 
@@ -1273,10 +969,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518ce20" />
+      <child nodeId="node-0x51d8ba0" />
     </children>
   </item>
-  <item nodeId="node-0x518ce20">
+  <item nodeId="node-0x51d8ba0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -1285,10 +981,10 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518ce90" />
+      <child nodeId="node-0x51d8c10" />
     </children>
   </item>
-  <item nodeId="node-0x518ce90">
+  <item nodeId="node-0x51d8c10">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Cell A
 A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A.
@@ -1298,10 +994,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cf00" />
+      <child nodeId="node-0x51d8c80" />
     </children>
   </item>
-  <item nodeId="node-0x518cf00">
+  <item nodeId="node-0x51d8c80">
     <command xml:space="preserve">use wire on door</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1310,10 +1006,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cf70" />
+      <child nodeId="node-0x51d8cf0" />
     </children>
   </item>
-  <item nodeId="node-0x518cf70">
+  <item nodeId="node-0x51d8cf0">
     <command xml:space="preserve">x wire</command>
     <result xml:space="preserve">Some long, hard, sturdy, and thin strips of wire. This could become very useful. With effort, I think I would be able to bend or mold this to my will.
 
@@ -1322,10 +1018,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518cfe0" />
+      <child nodeId="node-0x51d8d60" />
     </children>
   </item>
-  <item nodeId="node-0x518cfe0">
+  <item nodeId="node-0x51d8d60">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
 Your health is: 93
@@ -1334,10 +1030,10 @@ Your health is: 93
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d050" />
+      <child nodeId="node-0x51d8dd0" />
     </children>
   </item>
-  <item nodeId="node-0x518d050">
+  <item nodeId="node-0x51d8dd0">
     <command xml:space="preserve">bend</command>
     <result xml:space="preserve">(Metal wire)
 Using your strength and rough hands, you bend the wire into a key!
@@ -1347,10 +1043,10 @@ Using your strength and rough hands, you bend the wire into a key!
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d0c0" />
+      <child nodeId="node-0x51d8e40" />
     </children>
   </item>
-  <item nodeId="node-0x518d0c0">
+  <item nodeId="node-0x51d8e40">
     <command xml:space="preserve">use wireon door</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1359,10 +1055,10 @@ Using your strength and rough hands, you bend the wire into a key!
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d130" />
+      <child nodeId="node-0x51d8eb0" />
     </children>
   </item>
-  <item nodeId="node-0x518d130">
+  <item nodeId="node-0x51d8eb0">
     <command xml:space="preserve">use wire on door</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1371,10 +1067,10 @@ Using your strength and rough hands, you bend the wire into a key!
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d1a0" />
+      <child nodeId="node-0x51d8f20" />
     </children>
   </item>
-  <item nodeId="node-0x518d1a0">
+  <item nodeId="node-0x51d8f20">
     <command xml:space="preserve">use key on door</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1383,10 +1079,10 @@ Using your strength and rough hands, you bend the wire into a key!
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d210" />
+      <child nodeId="node-0x51d8f90" />
     </children>
   </item>
-  <item nodeId="node-0x518d210">
+  <item nodeId="node-0x51d8f90">
     <command xml:space="preserve">unlock door</command>
     <result xml:space="preserve">(with Wire key)
 You unlock Sturdy metal door.
@@ -1396,10 +1092,10 @@ You unlock Sturdy metal door.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d280" />
+      <child nodeId="node-0x51d9000" />
     </children>
   </item>
-  <item nodeId="node-0x518d280">
+  <item nodeId="node-0x51d9000">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
@@ -1409,10 +1105,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d2f0" />
+      <child nodeId="node-0x51d9070" />
     </children>
   </item>
-  <item nodeId="node-0x518d2f0">
+  <item nodeId="node-0x51d9070">
     <command xml:space="preserve">x trash</command>
     <result xml:space="preserve">Gross. It&apos;s just some sticky candy wrappers and some other dirty things.
 
@@ -1421,10 +1117,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d360" />
+      <child nodeId="node-0x51d90e0" />
     </children>
   </item>
-  <item nodeId="node-0x518d360">
+  <item nodeId="node-0x51d90e0">
     <command xml:space="preserve">take trash</command>
     <result xml:space="preserve">I don&apos;t think I really need that right now.
 
@@ -1433,10 +1129,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d3d0" />
+      <child nodeId="node-0x51d9150" />
     </children>
   </item>
-  <item nodeId="node-0x518d3d0">
+  <item nodeId="node-0x51d9150">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Storage
@@ -1447,10 +1143,10 @@ Very dusty and dark. You look around but you can&apos;t seem to find a light swi
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d440" />
+      <child nodeId="node-0x51d91c0" />
     </children>
   </item>
-  <item nodeId="node-0x518d440">
+  <item nodeId="node-0x51d91c0">
     <command xml:space="preserve">x shelf</command>
     <result xml:space="preserve">Just a regular shelf. Nothing seems unordinary about it, except for the few chips and cracks in the old wood.
 
@@ -1461,10 +1157,10 @@ You pat your hand on top of the shelf and notice a bump that seems to have made 
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d4b0" />
+      <child nodeId="node-0x51d9230" />
     </children>
   </item>
-  <item nodeId="node-0x518d4b0">
+  <item nodeId="node-0x51d9230">
     <command xml:space="preserve">take key</command>
     <result xml:space="preserve">(Brass key)
 Taken.
@@ -1474,10 +1170,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d520" />
+      <child nodeId="node-0x51d92a0" />
     </children>
   </item>
-  <item nodeId="node-0x518d520">
+  <item nodeId="node-0x51d92a0">
     <command xml:space="preserve">x shelf</command>
     <result xml:space="preserve">Just a regular shelf. Nothing seems unordinary about it, except for the few chips and cracks in the old wood. There was a brass key here.
 
@@ -1486,10 +1182,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d590" />
+      <child nodeId="node-0x51d9310" />
     </children>
   </item>
-  <item nodeId="node-0x518d590">
+  <item nodeId="node-0x51d9310">
     <command xml:space="preserve">x floor</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1498,10 +1194,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d600" />
+      <child nodeId="node-0x51d9380" />
     </children>
   </item>
-  <item nodeId="node-0x518d600">
+  <item nodeId="node-0x51d9380">
     <command xml:space="preserve">x cobwebs</command>
     <result xml:space="preserve">Just some ordinary cobwebs that have gathered in the corner.
 
@@ -1510,10 +1206,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d670" />
+      <child nodeId="node-0x51d93f0" />
     </children>
   </item>
-  <item nodeId="node-0x518d670">
+  <item nodeId="node-0x51d93f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1522,10 +1218,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d6e0" />
+      <child nodeId="node-0x51d9460" />
     </children>
   </item>
-  <item nodeId="node-0x518d6e0">
+  <item nodeId="node-0x51d9460">
     <command xml:space="preserve">x floor</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1534,10 +1230,10 @@ Taken.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d750" />
+      <child nodeId="node-0x51d94d0" />
     </children>
   </item>
-  <item nodeId="node-0x518d750">
+  <item nodeId="node-0x51d94d0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Hallway
@@ -1548,10 +1244,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d7c0" />
+      <child nodeId="node-0x51d9540" />
     </children>
   </item>
-  <item nodeId="node-0x518d7c0">
+  <item nodeId="node-0x51d9540">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Cell A
 A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A.
@@ -1561,10 +1257,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d830" />
+      <child nodeId="node-0x51d95b0" />
     </children>
   </item>
-  <item nodeId="node-0x518d830">
+  <item nodeId="node-0x51d95b0">
     <command xml:space="preserve">x floor</command>
     <result xml:space="preserve">Just a hard floor that is made of concrete.
 
@@ -1573,10 +1269,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d8a0" />
+      <child nodeId="node-0x51d9620" />
     </children>
   </item>
-  <item nodeId="node-0x518d8a0">
+  <item nodeId="node-0x51d9620">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
@@ -1586,10 +1282,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d910" />
+      <child nodeId="node-0x51d9690" />
     </children>
   </item>
-  <item nodeId="node-0x518d910">
+  <item nodeId="node-0x51d9690">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Storage
@@ -1600,10 +1296,10 @@ Very dusty and dark. You look around but you can&apos;t seem to find a light swi
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d980" />
+      <child nodeId="node-0x51d9700" />
     </children>
   </item>
-  <item nodeId="node-0x518d980">
+  <item nodeId="node-0x51d9700">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Hallway
@@ -1614,10 +1310,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518d9f0" />
+      <child nodeId="node-0x51d9770" />
     </children>
   </item>
-  <item nodeId="node-0x518d9f0">
+  <item nodeId="node-0x51d9770">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -1630,10 +1326,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518da60" />
+      <child nodeId="node-0x51d97e0" />
     </children>
   </item>
-  <item nodeId="node-0x518da60">
+  <item nodeId="node-0x51d97e0">
     <command xml:space="preserve">x plaque</command>
     <result xml:space="preserve">A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it&apos;s some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,
 
@@ -1653,10 +1349,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dad0" />
+      <child nodeId="node-0x51d9850" />
     </children>
   </item>
-  <item nodeId="node-0x518dad0">
+  <item nodeId="node-0x51d9850">
     <command xml:space="preserve">x voice activation</command>
     <result xml:space="preserve">Just a small box that seems to have a purpose in this room. It startles you and says &quot;Say &quot;answer&quot; and then put in the code, this will unl…ays &quot; The sound must be bugged, the last sentence got cut short. (In short, put &quot;answer&quot; before you enter the code. Ex: &quot;Answer #&quot;)
 
@@ -1665,10 +1361,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518db40" />
+      <child nodeId="node-0x51d98c0" />
     </children>
   </item>
-  <item nodeId="node-0x518db40">
+  <item nodeId="node-0x51d98c0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Hallway
@@ -1679,10 +1375,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dbb0" />
+      <child nodeId="node-0x51d9930" />
     </children>
   </item>
-  <item nodeId="node-0x518dbb0">
+  <item nodeId="node-0x51d9930">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go north until the door is unlocked.
 
@@ -1693,10 +1389,10 @@ You can&apos;t go that way.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dc20" />
+      <child nodeId="node-0x51d99a0" />
     </children>
   </item>
-  <item nodeId="node-0x518dc20">
+  <item nodeId="node-0x51d99a0">
     <command xml:space="preserve">UNLOCK</command>
     <result xml:space="preserve">What do you want to unlock?
 
@@ -1705,10 +1401,10 @@ You can&apos;t go that way.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dc90" />
+      <child nodeId="node-0x51d9a10" />
     </children>
   </item>
-  <item nodeId="node-0x518dc90">
+  <item nodeId="node-0x51d9a10">
     <command xml:space="preserve">DOOR</command>
     <result xml:space="preserve">Which do you mean, Sturdy metal door or Hallway door?
 
@@ -1717,10 +1413,10 @@ You can&apos;t go that way.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dd00" />
+      <child nodeId="node-0x51d9a80" />
     </children>
   </item>
-  <item nodeId="node-0x518dd00">
+  <item nodeId="node-0x51d9a80">
     <command xml:space="preserve">HALLWAY</command>
     <result xml:space="preserve">What do you want to unlock Hallway door with?
 
@@ -1729,10 +1425,10 @@ You can&apos;t go that way.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dd70" />
+      <child nodeId="node-0x51d9af0" />
     </children>
   </item>
-  <item nodeId="node-0x518dd70">
+  <item nodeId="node-0x51d9af0">
     <command xml:space="preserve">KEY</command>
     <result xml:space="preserve">Which do you mean, Brass key or Wire key?
 
@@ -1741,10 +1437,10 @@ You can&apos;t go that way.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dde0" />
+      <child nodeId="node-0x51d9b60" />
     </children>
   </item>
-  <item nodeId="node-0x518dde0">
+  <item nodeId="node-0x51d9b60">
     <command xml:space="preserve">BRASS</command>
     <result xml:space="preserve">You unlock Hallway door.
 
@@ -1753,10 +1449,10 @@ You can&apos;t go that way.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518de50" />
+      <child nodeId="node-0x51d9bd0" />
     </children>
   </item>
-  <item nodeId="node-0x518de50">
+  <item nodeId="node-0x51d9bd0">
     <command xml:space="preserve">go n</command>
     <result xml:space="preserve">guard room
 A larger room that has a center table and some lockers. This is probably where most of the guards hang out. To the north there is a door, it was left open, some guard had probably just left.
@@ -1772,10 +1468,10 @@ You have dodged the Guards attack.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dec0" />
+      <child nodeId="node-0x51d9c40" />
     </children>
   </item>
-  <item nodeId="node-0x518dec0">
+  <item nodeId="node-0x51d9c40">
     <command xml:space="preserve">kill gaurd</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1784,10 +1480,10 @@ You have dodged the Guards attack.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518df30" />
+      <child nodeId="node-0x51d9cb0" />
     </children>
   </item>
-  <item nodeId="node-0x518df30">
+  <item nodeId="node-0x51d9cb0">
     <command xml:space="preserve">kill guard</command>
     <result xml:space="preserve">(Guard Jeffery)
 You damage Guard Jeffery for 5 damage!
@@ -1799,10 +1495,10 @@ You use some quick and deadly move in which you end up silencing the guard forev
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518dfa0" />
+      <child nodeId="node-0x51d9d20" />
     </children>
   </item>
-  <item nodeId="node-0x518dfa0">
+  <item nodeId="node-0x51d9d20">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">guard room
 A larger room that has a center table and some lockers. This is probably where most of the guards hang out. To the north there is a door, it was left open, some guard had probably just left.
@@ -1812,10 +1508,10 @@ A larger room that has a center table and some lockers. This is probably where m
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e010" />
+      <child nodeId="node-0x51d9d90" />
     </children>
   </item>
-  <item nodeId="node-0x518e010">
+  <item nodeId="node-0x51d9d90">
     <command xml:space="preserve">x guard</command>
     <result xml:space="preserve">A suit that makes me look fairly tough, there are some unknown stains, but i&apos;m not too worried about that. I can definitely use this to blend into the outside world.
 
@@ -1824,10 +1520,10 @@ A larger room that has a center table and some lockers. This is probably where m
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e080" />
+      <child nodeId="node-0x51d9e00" />
     </children>
   </item>
-  <item nodeId="node-0x518e080">
+  <item nodeId="node-0x51d9e00">
     <command xml:space="preserve">put on suit</command>
     <result xml:space="preserve">(first taking Guard suit)
 Taken.
@@ -1839,10 +1535,10 @@ You put on Guard suit.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e0f0" />
+      <child nodeId="node-0x51d9e70" />
     </children>
   </item>
-  <item nodeId="node-0x518e0f0">
+  <item nodeId="node-0x51d9e70">
     <command xml:space="preserve">x self</command>
     <result xml:space="preserve">Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my dirty clothes, still as dashing and handsome as ever.
 
@@ -1851,10 +1547,10 @@ You put on Guard suit.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e160" />
+      <child nodeId="node-0x51d9ee0" />
     </children>
   </item>
-  <item nodeId="node-0x518e160">
+  <item nodeId="node-0x51d9ee0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   Guard suit (being worn)
@@ -1866,10 +1562,10 @@ You put on Guard suit.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e1d0" />
+      <child nodeId="node-0x51d9f50" />
     </children>
   </item>
-  <item nodeId="node-0x518e1d0">
+  <item nodeId="node-0x51d9f50">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Lobby
@@ -1880,10 +1576,10 @@ You are in the lobby of the building. It seems to be bustling with many guards a
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e240" />
+      <child nodeId="node-0x51d9fc0" />
     </children>
   </item>
-  <item nodeId="node-0x518e240">
+  <item nodeId="node-0x51d9fc0">
     <command xml:space="preserve">x plants</command>
     <result xml:space="preserve">Just some regular potted plants. There is some soil spilled over the side, but that seems like someone probably just bumped into it. Nothing out of the ordinary.
 
@@ -1892,10 +1588,10 @@ You are in the lobby of the building. It seems to be bustling with many guards a
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e2b0" />
+      <child nodeId="node-0x51da030" />
     </children>
   </item>
-  <item nodeId="node-0x518e2b0">
+  <item nodeId="node-0x51da030">
     <command xml:space="preserve">take plants</command>
     <result xml:space="preserve">That&apos;s hardly portable.
 
@@ -1904,10 +1600,10 @@ You are in the lobby of the building. It seems to be bustling with many guards a
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e320" />
+      <child nodeId="node-0x51da0a0" />
     </children>
   </item>
-  <item nodeId="node-0x518e320">
+  <item nodeId="node-0x51da0a0">
     <command xml:space="preserve">x couches</command>
     <result xml:space="preserve">Just some comfortable, bouncy, and boxy couches. It looks like very few people have actually sit in these couches.
 
@@ -1916,10 +1612,10 @@ You are in the lobby of the building. It seems to be bustling with many guards a
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e390" />
+      <child nodeId="node-0x51da110" />
     </children>
   </item>
-  <item nodeId="node-0x518e390">
+  <item nodeId="node-0x51da110">
     <command xml:space="preserve">eat couches</command>
     <result xml:space="preserve">(first taking Couches)
 That&apos;s hardly portable.
@@ -1929,10 +1625,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e400" />
+      <child nodeId="node-0x51da180" />
     </children>
   </item>
-  <item nodeId="node-0x518e400">
+  <item nodeId="node-0x51da180">
     <command xml:space="preserve">x people</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1941,10 +1637,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e470" />
+      <child nodeId="node-0x51da1f0" />
     </children>
   </item>
-  <item nodeId="node-0x518e470">
+  <item nodeId="node-0x51da1f0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">∂�?�����?�?��Ê�?�����?�?��??�?�����?� ��?F�?�����?�!��?v?˘�?ÄB@��,�U��?!�†B@��,�V��?O�?ÄB@��,�W��?Ü�?»B@��,�
 Y�X?¥���B@��W����?·??»B@?�,�Z��??�?ÄB@��,?�?ÄB@��,�\��?m�?ÄR@��,����?õ??�B@������^?»���B@���_��?˛���B@�+�?ÄB@�������?V�?ÄB@�������?Å���r@���
@@ -1964,10 +1660,10 @@ Just then a female pushing a cart walks in.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e4e0" />
+      <child nodeId="node-0x51da260" />
     </children>
   </item>
-  <item nodeId="node-0x518e4e0">
+  <item nodeId="node-0x51da260">
     <command xml:space="preserve">x shirt</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1976,10 +1672,10 @@ Just then a female pushing a cart walks in.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e550" />
+      <child nodeId="node-0x51da2d0" />
     </children>
   </item>
-  <item nodeId="node-0x518e550">
+  <item nodeId="node-0x51da2d0">
     <command xml:space="preserve">x self</command>
     <result xml:space="preserve">You notice a nametag that has been on you the entire time, perhaps I should examine that closer…
 
@@ -1988,10 +1684,10 @@ Just then a female pushing a cart walks in.
     <changed>YES</changed>
     <temporary score="220">YES</temporary>
     <children>
-      <child nodeId="node-0x518e5c0" />
+      <child nodeId="node-0x51da340" />
     </children>
   </item>
-  <item nodeId="node-0x518e5c0">
+  <item nodeId="node-0x51da340">
     <command xml:space="preserve">x nametag</command>
     <result xml:space="preserve">You notice a nametag that has been on you the entire time, it says:
 Mr. Jacob Williams
@@ -2010,7 +1706,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="219">YES</temporary>
   </item>
-  <item nodeId="node-0x518e630">
+  <item nodeId="node-0x51da3b0">
     <command xml:space="preserve">take concrete</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2019,10 +1715,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e6a0" />
+      <child nodeId="node-0x51da420" />
     </children>
   </item>
-  <item nodeId="node-0x518e6a0">
+  <item nodeId="node-0x51da420">
     <command xml:space="preserve">x cell a</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2031,10 +1727,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e710" />
+      <child nodeId="node-0x51da490" />
     </children>
   </item>
-  <item nodeId="node-0x518e710">
+  <item nodeId="node-0x51da490">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Cell A
 A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A.
@@ -2044,10 +1740,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e780" />
+      <child nodeId="node-0x51da500" />
     </children>
   </item>
-  <item nodeId="node-0x518e780">
+  <item nodeId="node-0x51da500">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -2056,10 +1752,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e7f0" />
+      <child nodeId="node-0x51da570" />
     </children>
   </item>
-  <item nodeId="node-0x518e7f0">
+  <item nodeId="node-0x51da570">
     <command xml:space="preserve">x spring</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2068,10 +1764,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e860" />
+      <child nodeId="node-0x51da5e0" />
     </children>
   </item>
-  <item nodeId="node-0x518e860">
+  <item nodeId="node-0x51da5e0">
     <command xml:space="preserve">x springs</command>
     <result xml:space="preserve">Just some ordinary box springs.
 
@@ -2080,20 +1776,20 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e8d0" />
+      <child nodeId="node-0x51da650" />
     </children>
   </item>
-  <item nodeId="node-0x518e8d0">
+  <item nodeId="node-0x51da650">
     <command xml:space="preserve">bend springs</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e940" />
+      <child nodeId="node-0x51da6c0" />
     </children>
   </item>
-  <item nodeId="node-0x518e940">
+  <item nodeId="node-0x51da6c0">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -2102,10 +1798,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518e9b0" />
+      <child nodeId="node-0x51da730" />
     </children>
   </item>
-  <item nodeId="node-0x518e9b0">
+  <item nodeId="node-0x51da730">
     <command xml:space="preserve">shape springs</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2114,10 +1810,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ea20" />
+      <child nodeId="node-0x51da7a0" />
     </children>
   </item>
-  <item nodeId="node-0x518ea20">
+  <item nodeId="node-0x51da7a0">
     <command xml:space="preserve">bend wire into key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2126,20 +1822,20 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ea90" />
+      <child nodeId="node-0x51da810" />
     </children>
   </item>
-  <item nodeId="node-0x518ea90">
+  <item nodeId="node-0x51da810">
     <command xml:space="preserve">bend springs</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518eb00" />
+      <child nodeId="node-0x51da880" />
     </children>
   </item>
-  <item nodeId="node-0x518eb00">
+  <item nodeId="node-0x51da880">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -2148,10 +1844,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518eb70" />
+      <child nodeId="node-0x51da8f0" />
     </children>
   </item>
-  <item nodeId="node-0x518eb70">
+  <item nodeId="node-0x51da8f0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Cell A
 A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A.
@@ -2161,10 +1857,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ebe0" />
+      <child nodeId="node-0x51da960" />
     </children>
   </item>
-  <item nodeId="node-0x518ebe0">
+  <item nodeId="node-0x51da960">
     <command xml:space="preserve">x bed</command>
     <result xml:space="preserve">A messy non-made bed. The bed frame is made of some box springs and some metal wire. With my tactical skills maybe I could use some of these things.
 
@@ -2175,10 +1871,10 @@ In Bed frame is Box springs.
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ec50" />
+      <child nodeId="node-0x51da9d0" />
     </children>
   </item>
-  <item nodeId="node-0x518ec50">
+  <item nodeId="node-0x51da9d0">
     <command xml:space="preserve">take springs</command>
     <result xml:space="preserve">I don&apos;t think I would really need that right now.
 
@@ -2187,10 +1883,10 @@ In Bed frame is Box springs.
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ecc0" />
+      <child nodeId="node-0x51daa40" />
     </children>
   </item>
-  <item nodeId="node-0x518ecc0">
+  <item nodeId="node-0x51daa40">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -2199,10 +1895,10 @@ In Bed frame is Box springs.
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ed30" />
+      <child nodeId="node-0x51daab0" />
     </children>
   </item>
-  <item nodeId="node-0x518ed30">
+  <item nodeId="node-0x51daab0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
 Your health is: 94
@@ -2211,10 +1907,10 @@ Your health is: 94
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518eda0" />
+      <child nodeId="node-0x51dab20" />
     </children>
   </item>
-  <item nodeId="node-0x518eda0">
+  <item nodeId="node-0x51dab20">
     <command xml:space="preserve">open door with keyu</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2223,10 +1919,10 @@ Your health is: 94
     <changed>NO</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ee10" />
+      <child nodeId="node-0x51dab90" />
     </children>
   </item>
-  <item nodeId="node-0x518ee10">
+  <item nodeId="node-0x51dab90">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2235,10 +1931,10 @@ Your health is: 94
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ee80" />
+      <child nodeId="node-0x51dac00" />
     </children>
   </item>
-  <item nodeId="node-0x518ee80">
+  <item nodeId="node-0x51dac00">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -2247,10 +1943,10 @@ Your health is: 94
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518eef0" />
+      <child nodeId="node-0x51dac70" />
     </children>
   </item>
-  <item nodeId="node-0x518eef0">
+  <item nodeId="node-0x51dac70">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -2259,10 +1955,10 @@ Your health is: 94
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518ef60" />
+      <child nodeId="node-0x51dace0" />
     </children>
   </item>
-  <item nodeId="node-0x518ef60">
+  <item nodeId="node-0x51dace0">
     <command xml:space="preserve">unlock door</command>
     <result xml:space="preserve">What do you want to unlock Sturdy metal door with?
 
@@ -2271,10 +1967,10 @@ Your health is: 94
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518efd0" />
+      <child nodeId="node-0x51dad50" />
     </children>
   </item>
-  <item nodeId="node-0x518efd0">
+  <item nodeId="node-0x51dad50">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Cell A
 A prison cell that is concealed. The walls and the floor are made of some type of concrete. On the left side of the room is my makeshift of a bed. I need to stop looking around and figure out if I can find a way to get out of this cage. There is a door to the north of the room, the door says Cell A.
@@ -2284,10 +1980,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518f040" />
+      <child nodeId="node-0x51dadc0" />
     </children>
   </item>
-  <item nodeId="node-0x518f040">
+  <item nodeId="node-0x51dadc0">
     <command xml:space="preserve">unlock door with key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2296,10 +1992,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518f0b0" />
+      <child nodeId="node-0x51dae30" />
     </children>
   </item>
-  <item nodeId="node-0x518f0b0">
+  <item nodeId="node-0x51dae30">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   Metal wire
@@ -2311,26 +2007,26 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518f120" />
+      <child nodeId="node-0x51daea0" />
     </children>
   </item>
-  <item nodeId="node-0x518f120">
+  <item nodeId="node-0x51daea0">
     <command xml:space="preserve">restart</command>
     <result xml:space="preserve">Are you sure you want to restart? </result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="132">YES</temporary>
     <children>
-      <child nodeId="node-0x518f190" />
+      <child nodeId="node-0x51daf10" />
     </children>
   </item>
-  <item nodeId="node-0x518f190">
+  <item nodeId="node-0x51daf10">
     <command xml:space="preserve">y</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="131">YES</temporary>
   </item>
-  <item nodeId="node-0x54aca0">
+  <item nodeId="node-0x51daf80">
     <command xml:space="preserve">x bed</command>
     <result xml:space="preserve">A messy non-made bed. The bed frame is made of some Metal Wire and Box Springs. With my tactical skills maybe I could use some of these things.
 
@@ -2339,11 +2035,11 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0x54ad10" />
-      <child nodeId="node-0x90e04f0" />
+      <child nodeId="node-0x51db060" />
+      <child nodeId="node-0x51daff0" />
     </children>
   </item>
-  <item nodeId="node-0x90e04f0">
+  <item nodeId="node-0x51daff0">
     <command xml:space="preserve">take wireb</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2352,7 +2048,7 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="138">YES</temporary>
   </item>
-  <item nodeId="node-0x54ad10">
+  <item nodeId="node-0x51db060">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -2361,10 +2057,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>NO</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0x54ad80" />
+      <child nodeId="node-0x51db0d0" />
     </children>
   </item>
-  <item nodeId="node-0x54ad80">
+  <item nodeId="node-0x51db0d0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -2373,12 +2069,12 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0x518a2c0" />
-      <child nodeId="node-0x54a8b0" />
-      <child nodeId="node-0x51b6020" />
+      <child nodeId="node-0x51db760" />
+      <child nodeId="node-0x51db370" />
+      <child nodeId="node-0x51db140" />
     </children>
   </item>
-  <item nodeId="node-0x51b6020">
+  <item nodeId="node-0x51db140">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -2387,10 +2083,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0x53a120" />
+      <child nodeId="node-0x51db1b0" />
     </children>
   </item>
-  <item nodeId="node-0x53a120">
+  <item nodeId="node-0x51db1b0">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -2399,10 +2095,10 @@ A prison cell that is concealed. The walls and the floor are made of some type o
     <changed>YES</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0x568abc0" />
+      <child nodeId="node-0x51db220" />
     </children>
   </item>
-  <item nodeId="node-0x568abc0">
+  <item nodeId="node-0x51db220">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
@@ -2412,10 +2108,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0xc6af3b0" />
+      <child nodeId="node-0x51db290" />
     </children>
   </item>
-  <item nodeId="node-0xc6af3b0">
+  <item nodeId="node-0x51db290">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -2428,10 +2124,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="181">YES</temporary>
     <children>
-      <child nodeId="node-0xc646250" />
+      <child nodeId="node-0x51db300" />
     </children>
   </item>
-  <item nodeId="node-0xc646250">
+  <item nodeId="node-0x51db300">
     <command xml:space="preserve">x plaque</command>
     <result xml:space="preserve">A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it&apos;s some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,
 
@@ -2451,7 +2147,7 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>YES</changed>
     <temporary score="180">YES</temporary>
   </item>
-  <item nodeId="node-0x54a8b0">
+  <item nodeId="node-0x51db370">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -2460,10 +2156,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>NO</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0xc623cd0" />
+      <child nodeId="node-0x51db3e0" />
     </children>
   </item>
-  <item nodeId="node-0xc623cd0">
+  <item nodeId="node-0x51db3e0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">I can&apos;t go this way, it&apos;s locked! I would need to make a makeshift key in order to unlock this door.
 
@@ -2472,10 +2168,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>NO</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x56e5190" />
+      <child nodeId="node-0x51db450" />
     </children>
   </item>
-  <item nodeId="node-0x56e5190">
+  <item nodeId="node-0x51db450">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -2484,10 +2180,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>NO</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x515d370" />
+      <child nodeId="node-0x51db4c0" />
     </children>
   </item>
-  <item nodeId="node-0x515d370">
+  <item nodeId="node-0x51db4c0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
@@ -2497,10 +2193,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>NO</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x51a8f00" />
+      <child nodeId="node-0x51db530" />
     </children>
   </item>
-  <item nodeId="node-0x51a8f00">
+  <item nodeId="node-0x51db530">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -2513,10 +2209,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x56978c0" />
+      <child nodeId="node-0x51db5a0" />
     </children>
   </item>
-  <item nodeId="node-0x56978c0">
+  <item nodeId="node-0x51db5a0">
     <command xml:space="preserve">x plaque</command>
     <result xml:space="preserve">A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it&apos;s some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,
 
@@ -2536,10 +2232,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>YES</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x56981c0" />
+      <child nodeId="node-0x51db610" />
     </children>
   </item>
-  <item nodeId="node-0x56981c0">
+  <item nodeId="node-0x51db610">
     <command xml:space="preserve">answer 1113312221</command>
     <result xml:space="preserve">(to Voice Activation)
 The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.
@@ -2549,10 +2245,10 @@ The wall begins to push outwards, you first think you&apos;re going to get crush
     <changed>YES</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x5693f00" />
+      <child nodeId="node-0x51db680" />
     </children>
   </item>
-  <item nodeId="node-0x5693f00">
+  <item nodeId="node-0x51db680">
     <command xml:space="preserve">xyzz</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2561,10 +2257,10 @@ The wall begins to push outwards, you first think you&apos;re going to get crush
     <changed>YES</changed>
     <temporary score="137">YES</temporary>
     <children>
-      <child nodeId="node-0x567b310" />
+      <child nodeId="node-0x51db6f0" />
     </children>
   </item>
-  <item nodeId="node-0x567b310">
+  <item nodeId="node-0x51db6f0">
     <command xml:space="preserve">xyzzy</command>
     <result xml:space="preserve">Xyzzy, what are you trying to accomplish by this? You must be crazy! What are you a mental?
 
@@ -2573,7 +2269,7 @@ The wall begins to push outwards, you first think you&apos;re going to get crush
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
   </item>
-  <item nodeId="node-0x518a2c0">
+  <item nodeId="node-0x51db760">
     <command xml:space="preserve">eat bed</command>
     <result xml:space="preserve">(first taking Bed frame)
 That&apos;s plainly inedible.
@@ -2583,10 +2279,10 @@ That&apos;s plainly inedible.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a330" />
+      <child nodeId="node-0x51db7d0" />
     </children>
   </item>
-  <item nodeId="node-0x518a330">
+  <item nodeId="node-0x51db7d0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -2595,10 +2291,10 @@ That&apos;s plainly inedible.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a3a0" />
+      <child nodeId="node-0x51db840" />
     </children>
   </item>
-  <item nodeId="node-0x518a3a0">
+  <item nodeId="node-0x51db840">
     <command xml:space="preserve">unlock door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -2607,10 +2303,10 @@ That&apos;s plainly inedible.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a410" />
+      <child nodeId="node-0x51db8b0" />
     </children>
   </item>
-  <item nodeId="node-0x518a410">
+  <item nodeId="node-0x51db8b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
@@ -2620,10 +2316,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a480" />
+      <child nodeId="node-0x51db920" />
     </children>
   </item>
-  <item nodeId="node-0x518a480">
+  <item nodeId="node-0x51db920">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -2636,10 +2332,10 @@ You can see Voice Activation here.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a4f0" />
+      <child nodeId="node-0x51db990" />
     </children>
   </item>
-  <item nodeId="node-0x518a4f0">
+  <item nodeId="node-0x51db990">
     <command xml:space="preserve">x plaque</command>
     <result xml:space="preserve">A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it&apos;s some type of riddle. Under the last number, it looks like someone scratched out the number. I wonder what that number is... It says,
 
@@ -2659,10 +2355,10 @@ Hmm.. I bet that the voice activation device goes along with the last line of th
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a560" />
+      <child nodeId="node-0x51dba00" />
     </children>
   </item>
-  <item nodeId="node-0x518a560">
+  <item nodeId="node-0x51dba00">
     <command xml:space="preserve">answer voice activation 1113213211</command>
     <result xml:space="preserve">(to Voice Activation)
 There is no reply.
@@ -2672,10 +2368,10 @@ There is no reply.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a5d0" />
+      <child nodeId="node-0x51dba70" />
     </children>
   </item>
-  <item nodeId="node-0x518a5d0">
+  <item nodeId="node-0x51dba70">
     <command xml:space="preserve">answer 1113213211</command>
     <result xml:space="preserve">(to Voice Activation)
 The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.
@@ -2685,10 +2381,10 @@ The wall begins to push outwards, you first think you&apos;re going to get crush
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x5189ff0" />
+      <child nodeId="node-0x51dbae0" />
     </children>
   </item>
-  <item nodeId="node-0x5189ff0">
+  <item nodeId="node-0x51dbae0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Supply Closet
 A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cleaning supplies in the corner. There is also some clothes with the label &quot;Janitor&quot;. That would definitely come in handy. There is a door to the west, probably leading out to the lobby.
@@ -2698,10 +2394,10 @@ A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cl
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a060" />
+      <child nodeId="node-0x51dbb50" />
     </children>
   </item>
-  <item nodeId="node-0x518a060">
+  <item nodeId="node-0x51dbb50">
     <command xml:space="preserve">take clothes</command>
     <result xml:space="preserve">Taken.
 
@@ -2710,10 +2406,10 @@ A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cl
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a0d0" />
+      <child nodeId="node-0x51dbbc0" />
     </children>
   </item>
-  <item nodeId="node-0x518a0d0">
+  <item nodeId="node-0x51dbbc0">
     <command xml:space="preserve">put on clothes</command>
     <result xml:space="preserve">You put on Janitor suit.
 
@@ -2722,10 +2418,10 @@ A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cl
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a880" />
+      <child nodeId="node-0x51dbc30" />
     </children>
   </item>
-  <item nodeId="node-0x518a880">
+  <item nodeId="node-0x51dbc30">
     <command xml:space="preserve">x self</command>
     <result xml:space="preserve">Just an average trooper that has been trying to serve his duty in the line of fire. With only a couple of wounds and some electric burns in my dirty clothes, still as dashing and handsome as ever.
 
@@ -2734,10 +2430,10 @@ A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cl
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a8f0" />
+      <child nodeId="node-0x51dbca0" />
     </children>
   </item>
-  <item nodeId="node-0x518a8f0">
+  <item nodeId="node-0x51dbca0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Supply Closet
 A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cleaning supplies in the corner. There is also some clothes with the label &quot;Janitor&quot;. That would definitely come in handy. There is a door to the west, probably leading out to the lobby.
@@ -2747,10 +2443,10 @@ A dirty, cramped, and dark supply closet. There&apos;s some high-tech looking cl
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a960" />
+      <child nodeId="node-0x51dbd10" />
     </children>
   </item>
-  <item nodeId="node-0x518a960">
+  <item nodeId="node-0x51dbd10">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Lobby
@@ -2761,10 +2457,10 @@ You are in the lobby of the building. It seems to be bustling with many guards a
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518a9d0" />
+      <child nodeId="node-0x51dbd80" />
     </children>
   </item>
-  <item nodeId="node-0x518a9d0">
+  <item nodeId="node-0x51dbd80">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">∂�?�����?�?��Ê�?�����?�?��??�?�����?� ��?F�?�����?�!��?v?˘�?ÄB@��,�U��?!�†B@��,�V��?O�?ÄB@��,�W��?Ü�?»B@��,�
 Y�X?¥���B@��W����?·??»B@?�,�Z��??�?ÄB@��,?�?ÄB@��,�\��?m�?ÄR@��,����?õ??�B@������^?»���B@���_��?˛���B@�+�?ÄB@�������?V�?ÄB@�������?Å���r@���櫏￞
@@ -2784,10 +2480,10 @@ Just then a female pushing a cart walks in.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518aa40" />
+      <child nodeId="node-0x51dbdf0" />
     </children>
   </item>
-  <item nodeId="node-0x518aa40">
+  <item nodeId="node-0x51dbdf0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   Bed frame
@@ -2798,10 +2494,10 @@ Just then a female pushing a cart walks in.
     <changed>YES</changed>
     <temporary score="152">YES</temporary>
     <children>
-      <child nodeId="node-0x518aab0" />
+      <child nodeId="node-0x51dbe60" />
     </children>
   </item>
-  <item nodeId="node-0x518aab0">
+  <item nodeId="node-0x51dbe60">
     <command xml:space="preserve">x nametag</command>
     <result xml:space="preserve">You notice a nametag that has been on you the entire time, it says:
 Mr. Jacob Williams
@@ -2820,7 +2516,311 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="151">YES</temporary>
   </item>
-  <item nodeId="node-0x518b6f0">
+  <item nodeId="node-0x2d4ea0">
+    <command xml:space="preserve">1113213211</command>
+    <result xml:space="preserve">What?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d5fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d5fe0">
+    <command xml:space="preserve">111321</command>
+    <result xml:space="preserve">What?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6030" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6030">
+    <command xml:space="preserve">hi</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6080" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6080">
+    <command xml:space="preserve">hin</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d60d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d60d0">
+    <command xml:space="preserve">11132</command>
+    <result xml:space="preserve">What?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d61c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d61c0">
+    <command xml:space="preserve">1114213211</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6210" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6210">
+    <command xml:space="preserve">xyzzz</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6260" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6260">
+    <command xml:space="preserve">xyyzz</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d62d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d62d0">
+    <command xml:space="preserve">111321321</command>
+    <result xml:space="preserve">What?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6340" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6340">
+    <command xml:space="preserve">3211</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6470" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6470">
+    <command xml:space="preserve">321</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6160" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6160">
+    <command xml:space="preserve">32111</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d64e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d64e0">
+    <command xml:space="preserve">111</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6550" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6550">
+    <command xml:space="preserve">1113</command>
+    <result xml:space="preserve">What?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d65c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d65c0">
+    <command xml:space="preserve">xyzz</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6630" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6630">
+    <command xml:space="preserve">x bed</command>
+    <result xml:space="preserve">A messy non-made bed. The bed frame is made of some Metal Wire and Box Springs. With my tactical skills maybe I could use some of these things.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d66a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d66a0">
+    <command xml:space="preserve">take wire</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6710" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6710">
+    <command xml:space="preserve">bend wire</command>
+    <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d63b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d63b0">
+    <command xml:space="preserve">open door with key</command>
+    <result xml:space="preserve">You unlock Sturdy metal door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6400" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6400">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hallway
+A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into seperate rooms. In the west, there&apos;s a room that is labeled Storage. In the east, there&apos;s an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6900" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6900">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Cell B
+A cell room that looks like it hasn&apos;t been used in over 400 years. In the corner there is a broken down bed frame. In the back of the room you spot something that has been collecting dust, it looks like a plaque. You can also see something that looks very high-tech, you can tell it wasn&apos;t installed recently, but it looks high-tech. Kind of some sort of voice application.
+
+You can see Voice Activation here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6970" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6970">
+    <command xml:space="preserve">1113213211</command>
+    <result xml:space="preserve">The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d69e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d69e0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Cell B
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6a50">
+    <command xml:space="preserve">111321</command>
+    <result xml:space="preserve">The wall begins to push outwards, you first think you&apos;re going to get crushed. However, it seems to shift into different shapes leaving behind an opening that looks like a secret passage to the north.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="172">YES</temporary>
+    <children>
+      <child nodeId="node-0x51d6ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x51d6ac0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Cell B
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="171">YES</temporary>
+  </item>
+  <item nodeId="node-0x51dbed0">
     <command xml:space="preserve">take bed frame</command>
     <result xml:space="preserve">Taken.
 
@@ -2829,7 +2829,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="154">YES</temporary>
   </item>
-  <item nodeId="node-0x5675430">
+  <item nodeId="node-0x51dbf40">
     <command xml:space="preserve">1113</command>
     <result xml:space="preserve">What?
 
@@ -2838,7 +2838,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="172">YES</temporary>
   </item>
-  <item nodeId="node-0x5036e10">
+  <item nodeId="node-0x51dbfb0">
     <command xml:space="preserve">111321321</command>
     <result xml:space="preserve">In the distance, you hear a loud booming noise. That&apos;s very odd, how did that happen?
 
@@ -2847,10 +2847,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="147">YES</temporary>
     <children>
-      <child nodeId="node-0x90e4430" />
+      <child nodeId="node-0x51dc020" />
     </children>
   </item>
-  <item nodeId="node-0x90e4430">
+  <item nodeId="node-0x51dc020">
     <command xml:space="preserve">11113211</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2859,10 +2859,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="147">YES</temporary>
     <children>
-      <child nodeId="node-0x56c2450" />
+      <child nodeId="node-0x51dc090" />
     </children>
   </item>
-  <item nodeId="node-0x56c2450">
+  <item nodeId="node-0x51dc090">
     <command xml:space="preserve">1113211321</command>
     <result xml:space="preserve">In the distance, you hear a loud booming noise. That&apos;s very odd, how did that happen?
 
@@ -2871,10 +2871,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="147">YES</temporary>
     <children>
-      <child nodeId="node-0x90faf90" />
+      <child nodeId="node-0x51dc100" />
     </children>
   </item>
-  <item nodeId="node-0x90faf90">
+  <item nodeId="node-0x51dc100">
     <command xml:space="preserve">xyzyz</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2883,10 +2883,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="147">YES</temporary>
     <children>
-      <child nodeId="node-0x2614c0" />
+      <child nodeId="node-0x51dc170" />
     </children>
   </item>
-  <item nodeId="node-0x2614c0">
+  <item nodeId="node-0x51dc170">
     <command xml:space="preserve">xyzzy</command>
     <result xml:space="preserve">Xyzzy, what are you trying to accomplish by this? You must be crazy! What are you a mental?
 
@@ -2895,10 +2895,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="147">YES</temporary>
     <children>
-      <child nodeId="node-0x5cf070" />
+      <child nodeId="node-0x51dc1e0" />
     </children>
   </item>
-  <item nodeId="node-0x5cf070">
+  <item nodeId="node-0x51dc1e0">
     <command xml:space="preserve">xyzz</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2907,10 +2907,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="147">YES</temporary>
     <children>
-      <child nodeId="node-0x56bdc10" />
+      <child nodeId="node-0x51dc250" />
     </children>
   </item>
-  <item nodeId="node-0x56bdc10">
+  <item nodeId="node-0x51dc250">
     <command xml:space="preserve">cast unicorns</command>
     <result xml:space="preserve">I didn&apos;t understand that sentence.
 
@@ -2919,7 +2919,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="146">YES</temporary>
   </item>
-  <item nodeId="node-0x54abe0">
+  <item nodeId="node-0x51dc2c0">
     <command xml:space="preserve">eat bed frame</command>
     <result xml:space="preserve">(first taking Bed frame)
 That&apos;s fixed in place.
@@ -2929,7 +2929,7 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="155">YES</temporary>
   </item>
-  <item nodeId="node-0x518ab20">
+  <item nodeId="node-0x51dc330">
     <command xml:space="preserve">take wire</command>
     <result xml:space="preserve">Taken.
 
@@ -2938,10 +2938,10 @@ That&apos;s fixed in place.
     <changed>NO</changed>
     <temporary score="205">YES</temporary>
     <children>
-      <child nodeId="node-0x518ab90" />
+      <child nodeId="node-0x51dc3a0" />
     </children>
   </item>
-  <item nodeId="node-0x518ab90">
+  <item nodeId="node-0x51dc3a0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -2950,11 +2950,11 @@ That&apos;s fixed in place.
     <changed>YES</changed>
     <temporary score="205">YES</temporary>
     <children>
-      <child nodeId="node-0x518a6b0" />
-      <child nodeId="node-0x518ace0" />
+      <child nodeId="node-0x51dc790" />
+      <child nodeId="node-0x51dc410" />
     </children>
   </item>
-  <item nodeId="node-0x518ace0">
+  <item nodeId="node-0x51dc410">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
 Your health is: 94
@@ -2963,10 +2963,10 @@ Your health is: 94
     <changed>NO</changed>
     <temporary score="201">YES</temporary>
     <children>
-      <child nodeId="node-0x518ad50" />
+      <child nodeId="node-0x51dc480" />
     </children>
   </item>
-  <item nodeId="node-0x518ad50">
+  <item nodeId="node-0x51dc480">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">You attempt to bend the wire into something useful, however your hand slips. You get a small cut on your hand and start bleeding. It doesn&apos;t look too bad though, maybe you should try again.
 Your health is: 90
@@ -2975,11 +2975,11 @@ Your health is: 90
     <changed>YES</changed>
     <temporary score="201">YES</temporary>
     <children>
-      <child nodeId="node-0x518aea0" />
-      <child nodeId="node-0x518adc0" />
+      <child nodeId="node-0x51dc5d0" />
+      <child nodeId="node-0x51dc4f0" />
     </children>
   </item>
-  <item nodeId="node-0x518adc0">
+  <item nodeId="node-0x51dc4f0">
     <command xml:space="preserve">bend wire</command>
     <result xml:space="preserve">Using your strength and rough hands, you bend the wire into a key!
 
@@ -2988,10 +2988,10 @@ Your health is: 90
     <changed>YES</changed>
     <temporary score="201">YES</temporary>
     <children>
-      <child nodeId="node-0x518ae30" />
+      <child nodeId="node-0x51dc560" />
     </children>
   </item>
-  <item nodeId="node-0x518ae30">
+  <item nodeId="node-0x51dc560">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -3000,7 +3000,7 @@ Your health is: 90
     <changed>YES</changed>
     <temporary score="200">YES</temporary>
   </item>
-  <item nodeId="node-0x518aea0">
+  <item nodeId="node-0x51dc5d0">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -3009,10 +3009,10 @@ Your health is: 90
     <changed>YES</changed>
     <temporary score="166">YES</temporary>
     <children>
-      <child nodeId="node-0x518af10" />
+      <child nodeId="node-0x51dc640" />
     </children>
   </item>
-  <item nodeId="node-0x518af10">
+  <item nodeId="node-0x51dc640">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">hallway
 A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are foor door ways that lead into seperate rooms. In the west, there&apos;s a door that is labeled Storage. In the east, there&apos;s a door that has the label Cell B. In the north you can hear chatter and harsh voices and tones, probably the guard room.
@@ -3022,10 +3022,10 @@ A hallway that has a couple bits and pieces of wrappers and trash around. You wo
     <changed>YES</changed>
     <temporary score="166">YES</temporary>
     <children>
-      <child nodeId="node-0x518af80" />
+      <child nodeId="node-0x51dc6b0" />
     </children>
   </item>
-  <item nodeId="node-0x518af80">
+  <item nodeId="node-0x51dc6b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Cell B
@@ -3036,10 +3036,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>YES</changed>
     <temporary score="166">YES</temporary>
     <children>
-      <child nodeId="node-0x518a640" />
+      <child nodeId="node-0x51dc720" />
     </children>
   </item>
-  <item nodeId="node-0x518a640">
+  <item nodeId="node-0x51dc720">
     <command xml:space="preserve">x plaque</command>
     <result xml:space="preserve">A very shiny, bright, wooden square that looks like it has been polished, but never touched. On the plaque there are some numbers, I wonder what this could be. I wonder if it&apos;s some type of riddle. It says,
 
@@ -3056,7 +3056,7 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>YES</changed>
     <temporary score="165">YES</temporary>
   </item>
-  <item nodeId="node-0x518a6b0">
+  <item nodeId="node-0x51dc790">
     <command xml:space="preserve">open door with key</command>
     <result xml:space="preserve">You unlock Sturdy metal door.
 
@@ -3065,10 +3065,10 @@ A cell room that looks like it hasn&apos;t been used in over 400 years. In the c
     <changed>NO</changed>
     <temporary score="205">YES</temporary>
     <children>
-      <child nodeId="node-0x518a720" />
+      <child nodeId="node-0x51dc800" />
     </children>
   </item>
-  <item nodeId="node-0x518a720">
+  <item nodeId="node-0x51dc800">
     <command xml:space="preserve">open sturdy metal door</command>
     <result xml:space="preserve">The key clicks around multiple times, luckily, the door opens. Unfortunately, your temporary key breaks.
 

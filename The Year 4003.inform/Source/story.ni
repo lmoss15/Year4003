@@ -119,7 +119,7 @@ Check Molding:
 		
 Chapter 2 Hallway
 
-Hallway is a room. Hallway is north of Sturdy Metal Door. The printed name is "Hallway". The description of Hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into seperate rooms. In the west, there's a room that is labeled Storage. In the east, there's an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room."
+Hallway is a room. Hallway is north of Sturdy Metal Door. The printed name is "Hallway". The description of Hallway is "A hallway that has a couple bits and pieces of wrappers and trash around. You would think in the year 4003 they would take more care of the place. There are four door ways that lead into separate rooms. In the west, there's a room that is labeled Storage. In the east, there's an open door that has the label Cell B. In the north you see a hallway door, you can hear chatter and harsh voices and tones, probably the guard room."
 
 Wrappers are a thing. Wrappers is undescribed. Wrappers is in hallway. The description of Wrappers is "Gross. It's just some sticky candy wrappers and some other dirty things."
 
@@ -289,7 +289,7 @@ Casting hint is an action applying to nothing.
 
 Check casting hint:
 	If player is in Cell B:
-		say "Say it out loud.";
+		say "The line above directly corresponds with the line below.";
 	Otherwise:
 		say "What are you doing? Asking yourself for hints? Stop talking to yourself.".
 		
